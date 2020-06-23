@@ -1,0 +1,15 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "plotComparison",
+    "plotVolcano",
+    "runANOVA",
+    "runTissueMultiComp",
+    "saveDRANOVAout",
+    "saveContigencyTable",
+    "show" 
+)
+exportClasses(
+    "DRANOVA",
+    "DRANOVA_OUT",
+    "DRANOVA_MUT_OUT"
+)

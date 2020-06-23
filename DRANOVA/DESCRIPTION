@@ -1,0 +1,12 @@
+Package: DRANOVA
+Type: Package
+Title: Drug Response ANOVA - running ANOVA, creating Volcano and Comparison plots
+Version: 1.01
+Date: 2014-07-18
+Author: Michael P Menden, Francesco Iorio, Michael Schubert, Julio Saez-Rodriguez
+Maintainer: Michael P Menden <menden@ebi.ac.uk>
+Description: Runs an ANOVA with drug response while considering mutational status of various genes (binary events) and the tissue-of-origin as covariate. This package offers various visualisations and preprocessing of the ANOVA output.
+NeedsCompilation: no 
+License: GPL-3
+LazyLoad: yes
+Depends: ggplot2, scales, stringr, qvalue
