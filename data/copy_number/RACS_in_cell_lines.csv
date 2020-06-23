@@ -1,0 +1,2437 @@
+﻿Sample,COSMIC_ID,Tissue identifier 1,Tissue identifier 2,Cancer Type,Alteration Type,Region identifier
+201T,1287381,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+201T,1287381,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+201T,1287381,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+201T,1287381,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+22RV1,924100,urogenital_system,prostate,PRAD,Deletion,cnaPRAD7
+23132-87,910924,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+23132-87,910924,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+23132-87,910924,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+23132-87,910924,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+42-MG-BA,687561,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+42-MG-BA,687561,nervous_system,glioma,GBM,Amplification,"cnaGBM12 (FIP1L1,PDGFRA)"
+42-MG-BA,687561,nervous_system,glioma,GBM,Amplification,"cnaGBM13 (FIP1L1,PDGFRA)"
+42-MG-BA,687561,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+42-MG-BA,687561,nervous_system,glioma,GBM,Deletion,cnaGBM47
+42-MG-BA,687561,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+451Lu,1287706,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+451Lu,1287706,skin,melanoma,SKCM,Amplification,cnaSKCM29 (MYC)
+5637,687452,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA7
+5637,687452,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA8
+5637,687452,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA9
+5637,687452,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA18 (CHD9,CNOT1,CYLD,MMP2,NUP93)"
+647-V,906797,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA5 (FAT1,IRF2)"
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC12
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC13
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC14
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC15
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC19
+769-P,910922,kidney,kidney,KIRC,Deletion,cnaKIRC22
+786-0,905947,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+8-MG-BA,687562,nervous_system,glioma,GBM,Deletion,cnaGBM81
+8-MG-BA,687562,nervous_system,glioma,GBM,Deletion,cnaGBM82
+8-MG-BA,687562,nervous_system,glioma,GBM,Deletion,cnaGBM83
+A101D,910921,skin,melanoma,SKCM,Deletion,cnaSKCM3
+A101D,910921,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+A172,687563,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+A172,687563,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+A2058,906792,skin,melanoma,SKCM,Deletion,cnaSKCM11
+A3-KAW,910935,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+A375,906793,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+A4-Fuk,910934,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC2
+A498,905948,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+A498,905948,kidney,kidney,KIRC,Deletion,cnaKIRC19
+A549,905949,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC3
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC4
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC12
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC13
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC14
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC15
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC19
+A704,910920,kidney,kidney,KIRC,Deletion,cnaKIRC22
+A704,910920,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+ABC-1,906791,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+ACHN,905950,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+AGS,906790,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+AGS,906790,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+AGS,906790,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+AM-38,910933,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+AN3-CA,910781,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC8 (SRGAP3)
+AN3-CA,910781,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC39
+AN3-CA,910781,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC45 (POT1)
+AsPC-1,910702,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+AU565,910704,breast,breast,BRCA,Deletion,cnaBRCA3
+AU565,910704,breast,breast,BRCA,Deletion,cnaBRCA4
+AU565,910704,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+AU565,910704,breast,breast,BRCA,Amplification,cnaBRCA15
+AU565,910704,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+AU565,910704,breast,breast,BRCA,Amplification,cnaBRCA31
+AU565,910704,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+BB30-HNC,753531,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC3
+BB30-HNC,753531,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BB30-HNC,753531,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+BB49-HNC,753532,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BB49-HNC,753532,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC3
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC4
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC5
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC6 (SOX17)
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC12
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC13
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC14
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC15
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC16
+BB65-RCC,753533,kidney,kidney,KIRC,Deletion,cnaKIRC22
+BC-1,910919,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC2
+BC-3,910918,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC2
+BC-3,910918,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+Becker,906746,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+Becker,906746,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+Becker,906746,nervous_system,glioma,GBM,Deletion,cnaGBM58
+Becker,906746,nervous_system,glioma,GBM,Deletion,cnaGBM59
+Becker,906746,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+BFTC-905,910926,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA1
+BFTC-905,910926,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA12 (MACF1)
+BFTC-905,910926,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA18 (CHD9,CNOT1,CYLD,MMP2,NUP93)"
+BFTC-905,910926,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA23 (MYC)
+BFTC-909,910698,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+BHY,753535,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BHY,753535,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+BHY,753535,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+BHY,753535,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+BHY,753535,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+BHY,753535,aero_dig_tract,head and neck,HNSC,Deletion,"cnaHNSC28 (ATP1A1,CSDE1,NRAS)"
+BHY,753535,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC29
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC3
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC19 (MED17)
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,"cnaHNSC28 (ATP1A1,CSDE1,NRAS)"
+BICR10,1290724,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC29
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC19 (MED17)
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+BICR22,1240121,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC19 (MED17)
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,"cnaHNSC28 (ATP1A1,CSDE1,NRAS)"
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC30
+BICR31,1290725,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+BICR78,1240122,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+BT-20,906801,breast,breast,BRCA,Deletion,"cnaBRCA7 (FAS,PTEN)"
+BT-20,906801,breast,breast,BRCA,Deletion,cnaBRCA17
+BT-20,906801,breast,breast,BRCA,Deletion,cnaBRCA18
+BT-20,906801,breast,breast,BRCA,Deletion,cnaBRCA20
+BT-20,906801,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+BT-20,906801,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+BT-20,906801,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+BT-20,906801,breast,breast,BRCA,Deletion,cnaBRCA57
+BT-20,906801,breast,breast,BRCA,Amplification,cnaBRCA61 (NOTCH2)
+BT-474,946359,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+BT-474,946359,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+BT-474,946359,breast,breast,BRCA,Amplification,cnaBRCA31
+BT-474,946359,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+BT-474,946359,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+BT-483,949093,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA15
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA16
+BT-483,949093,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+BT-483,949093,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA31
+BT-483,949093,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA40
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA62
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA63
+BT-483,949093,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+BT-549,905951,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+BxPC-3,906693,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+C-4-I,687506,urogenital_system,cervix,CESC,Deletion,cnaCESC5 (EXT2)
+C2BBe1,910700,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+C32,906830,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+C32,906830,skin,melanoma,SKCM,Deletion,cnaSKCM5 (PAX5)
+C32,906830,skin,melanoma,SKCM,Deletion,cnaSKCM22
+C32,906830,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+C32,906830,skin,melanoma,SKCM,Deletion,cnaSKCM30
+Ca-Ski,906824,urogenital_system,cervix,CESC,Amplification,cnaCESC8 (EGFR)
+Ca9-22,753538,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+Ca9-22,753538,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+Ca9-22,753538,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+Ca9-22,753538,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+Ca9-22,753538,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+CAKI-1,905963,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+CAKI-1,905963,kidney,kidney,KIRC,Deletion,cnaKIRC19
+CAKI-1,905963,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+CAL-120,906826,breast,breast,BRCA,Amplification,"cnaBRCA10 (MDM2,NUP107)"
+CAL-120,906826,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+CAL-120,906826,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+CAL-120,906826,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+CAL-120,906826,breast,breast,BRCA,Amplification,cnaBRCA15
+CAL-120,906826,breast,breast,BRCA,Amplification,cnaBRCA16
+CAL-120,906826,breast,breast,BRCA,Deletion,cnaBRCA18
+CAL-120,906826,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA17
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA18
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA33
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA42
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA43
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA52
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA53
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA54
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA55
+CAL-148,924106,breast,breast,BRCA,Deletion,cnaBRCA56
+CAL-27,910916,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+CAL-27,910916,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+CAL-27,910916,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+CAL-27,910916,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+CAL-33,753541,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+CAL-33,753541,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+CAL-33,753541,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+CAL-33,753541,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+CAL-54,910952,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+CAL-85-1,910852,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+CAL-85-1,910852,breast,breast,BRCA,Deletion,cnaBRCA17
+CAL-85-1,910852,breast,breast,BRCA,Deletion,cnaBRCA18
+CAL-85-1,910852,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+CAL-85-1,910852,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+CAL-85-1,910852,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+Calu-3,687777,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD2 (PAX5)
+Calu-3,687777,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+Calu-3,687777,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+Calu-3,687777,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD35 (MECOM)
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA11
+CAMA-1,946382,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA17
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA18
+CAMA-1,946382,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA23
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA24
+CAMA-1,946382,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA28 (GPS2)
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA53
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA59
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA60
+CAMA-1,946382,breast,breast,BRCA,Deletion,cnaBRCA65
+Caov-3,906825,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+Caov-3,906825,urogenital_system,ovary,OV,Amplification,cnaOV6 (TERT)
+Caov-3,906825,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+Caov-3,906825,urogenital_system,ovary,OV,Amplification,cnaOV96
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV3 (WNK1)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,"cnaOV5 (MDM2,NUP107)"
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV6 (TERT)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV7 (TRIO)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,"cnaOV12 (FGFR3,WHSC1)"
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV18 (CCNE1)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV19
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV26
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV60
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV72 (ASXL1)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV73
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV74 (ARFGAP1)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV93
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV94
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,cnaOV96
+Caov-4,949090,urogenital_system,ovary,OV,Amplification,"cnaOV97 (PIP5K1A,SETDB1)"
+CAPAN-1,753624,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+CaR-1,924108,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD14
+CaR-1,924108,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+CaR-1,924108,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+CaR-1,924108,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+CAS-1,910943,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+CAS-1,910943,nervous_system,glioma,GBM,Amplification,cnaGBM122
+CAS-1,910943,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+CAS-1,910943,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+CCF-STTG1,906823,nervous_system,glioma,GBM,Amplification,"cnaGBM26 (MDM2,NUP107)"
+CCF-STTG1,906823,nervous_system,glioma,GBM,Amplification,cnaGBM122
+CCF-STTG1,906823,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+CCF-STTG1,906823,nervous_system,glioma,GBM,Amplification,cnaGBM124
+CCF-STTG1,906823,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+CCK-81,1240123,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD27 (MAP2K4)
+CCK-81,1240123,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+CFPAC-1,906821,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+CHL-1,910853,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+CHL-1,910853,skin,melanoma,SKCM,Amplification,cnaSKCM29 (MYC)
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD21
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD22
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD23
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD27 (MAP2K4)
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD28 (SOX9)
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD53 (ARFGAP3)
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+CL-11,1290769,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD21
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+CL-34,1290771,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+CL-40,1240124,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD20 (HSP90AB1,TRERF1)"
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD36
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+COLO-205,905961,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD12 (PCDH18)
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+COLO-320-HSR,910569,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD6
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD12 (PCDH18)
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD23
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD28 (SOX9)
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD34
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,"cnaCOREAD42 (B2M,BUB1B,MGA,TP53BP1)"
+COLO-678,910689,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD53 (ARFGAP3)
+COLO-679,906818,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+COLO-679,906818,skin,melanoma,SKCM,Deletion,cnaSKCM18
+COLO-679,906818,skin,melanoma,SKCM,Deletion,cnaSKCM19
+COLO-679,906818,skin,melanoma,SKCM,Deletion,cnaSKCM30
+COLO-680N,906817,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA5 (PAX5)
+COLO-680N,906817,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+COLO-783,1240125,skin,melanoma,SKCM,Deletion,cnaSKCM3
+COLO-792,906814,skin,melanoma,SKCM,Deletion,cnaSKCM2
+COLO-792,906814,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+COLO-792,906814,skin,melanoma,SKCM,Amplification,cnaSKCM7
+COLO-792,906814,skin,melanoma,SKCM,Amplification,cnaSKCM8
+COLO-800,906813,skin,melanoma,SKCM,Deletion,cnaSKCM3
+COLO-824,906812,breast,breast,BRCA,Deletion,cnaBRCA18
+COLO-824,906812,breast,breast,BRCA,Amplification,cnaBRCA19
+COLO-824,906812,breast,breast,BRCA,Deletion,cnaBRCA20
+COLO-824,906812,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+COLO-824,906812,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+COLO-824,906812,breast,breast,BRCA,Deletion,cnaBRCA33
+COLO-824,906812,breast,breast,BRCA,Deletion,cnaBRCA34
+COLO-829,687448,skin,melanoma,SKCM,Deletion,cnaSKCM3
+COLO-829,687448,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD2 (PAX5)
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD20
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD31
+COR-L105,906805,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+CP50-MEL-B,753545,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+CP66-MEL,753546,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+CP66-MEL,753546,skin,melanoma,SKCM,Deletion,cnaSKCM9
+CP66-MEL,753546,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+CP66-MEL,753546,skin,melanoma,SKCM,Deletion,cnaSKCM28
+CP67-MEL,949092,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+CP67-MEL,949092,skin,melanoma,SKCM,Deletion,cnaSKCM22
+CP67-MEL,949092,skin,melanoma,SKCM,Deletion,cnaSKCM23
+CP67-MEL,949092,skin,melanoma,SKCM,Deletion,cnaSKCM24
+CP67-MEL,949092,skin,melanoma,SKCM,Deletion,cnaSKCM25
+CTB-1,949088,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+CW-2,910554,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+CW-2,910554,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+D-245MG,946366,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+D-245MG,946366,nervous_system,glioma,GBM,Amplification,cnaGBM49
+D-245MG,946366,nervous_system,glioma,GBM,Amplification,cnaGBM63
+D-245MG,946366,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+D-245MG,946366,nervous_system,glioma,GBM,Deletion,cnaGBM101
+D-245MG,946366,nervous_system,glioma,GBM,Amplification,cnaGBM122
+D-245MG,946366,nervous_system,glioma,GBM,Amplification,cnaGBM124
+D-245MG,946366,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+D-247MG,946367,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+D-247MG,946367,nervous_system,glioma,GBM,Amplification,cnaGBM122
+D-247MG,946367,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+D-247MG,946367,nervous_system,glioma,GBM,Amplification,cnaGBM124
+D-247MG,946367,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+D-263MG,946368,nervous_system,glioma,GBM,Deletion,cnaGBM1
+D-263MG,946368,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+D-336MG,946369,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+D-336MG,946369,nervous_system,glioma,LGG,Amplification,cnaLGG11 (KRAS)
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM37
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM43
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM44
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM45
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM46
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM47
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM48
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM64
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM97
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM98
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM99 (ANK3)
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM100
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM101
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM102
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM103
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM104
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM105
+D-392MG,946370,nervous_system,glioma,GBM,Deletion,cnaGBM106
+D-423MG,946372,nervous_system,glioma,GBM,Amplification,cnaGBM25 (CDK4)
+D-423MG,946372,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+D-423MG,946372,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+D-502MG,946373,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+D-502MG,946373,nervous_system,glioma,LGG,Deletion,cnaLGG7 (RPL22)
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM62
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM71 (SOX2)
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM122
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM124
+D-542MG,753549,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+D-566MG,946377,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+D-566MG,946377,nervous_system,glioma,GBM,Amplification,cnaGBM80 (MYC)
+D-566MG,946377,nervous_system,glioma,GBM,Amplification,cnaGBM122
+D-566MG,946377,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+D-566MG,946377,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+DAN-G,1290797,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+DAN-G,1290797,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+DBTRG-05MG,906835,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+DBTRG-05MG,906835,nervous_system,glioma,GBM,Amplification,cnaGBM25 (CDK4)
+DBTRG-05MG,906835,nervous_system,glioma,GBM,Deletion,cnaGBM47
+DBTRG-05MG,906835,nervous_system,glioma,GBM,Amplification,"cnaGBM61 (MDM4,PIK3C2B,ZC3H11A)"
+DBTRG-05MG,906835,nervous_system,glioma,GBM,Amplification,cnaGBM71 (SOX2)
+Detroit562,906837,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+Detroit562,906837,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+Detroit562,906837,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD1
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD61
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD62
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+DIFI,1789883,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM1
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM21
+DK-MG,906839,nervous_system,glioma,GBM,Amplification,"cnaGBM26 (MDM2,NUP107)"
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM45
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM46
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM47
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM48
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM93
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM94
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM95
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM97
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM98
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM99 (ANK3)
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM100
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM101
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM102
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM103
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM104
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM105
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM106
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM110
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM111
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM112
+DK-MG,906839,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM132
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM133
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM134
+DK-MG,906839,nervous_system,glioma,GBM,Deletion,cnaGBM135
+DOHH-2,906842,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+DOK,910936,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+DOK,910936,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+DOK,910936,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC9 (FANCG)
+DOK,910936,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+DOK,910936,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV24
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV57 (ZNRF3)
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV58
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV59
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV61
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV62
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV63
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+DOV13,1479987,urogenital_system,ovary,OV,Deletion,cnaOV89
+DU-145,905935,urogenital_system,prostate,PRAD,Deletion,cnaPRAD7
+DU-4475,906844,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+DU-4475,906844,breast,breast,BRCA,Deletion,cnaBRCA33
+DU-4475,906844,breast,breast,BRCA,Amplification,cnaBRCA62
+DU-4475,906844,breast,breast,BRCA,Amplification,cnaBRCA63
+DU-4475,906844,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC14 (CCT5,TERT,TRIO)"
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC22 (SMARCA4)
+EBC-1,753554,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC41 (AKAP9)
+EC-GI-10,753555,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+EC-GI-10,753555,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+EC-GI-10,753555,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+EFM-19,906851,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+EFM-19,906851,breast,breast,BRCA,Deletion,cnaBRCA17
+EFM-19,906851,breast,breast,BRCA,Deletion,cnaBRCA18
+EFM-19,906851,breast,breast,BRCA,Amplification,cnaBRCA19
+EFM-19,906851,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+EFM-19,906851,breast,breast,BRCA,Amplification,cnaBRCA31
+EFM-192A,1290798,breast,breast,BRCA,Amplification,cnaBRCA9 (KRAS)
+EFM-192A,1290798,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+EFM-192A,1290798,breast,breast,BRCA,Amplification,cnaBRCA15
+EFM-192A,1290798,breast,breast,BRCA,Amplification,cnaBRCA16
+EFM-192A,1290798,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+EFM-192A,1290798,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+EFM-192A,1290798,breast,breast,BRCA,Amplification,cnaBRCA31
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV16
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV17
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV39
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV43 (NF1)
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV52
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV53
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV54
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV81 (RB1)
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV85
+EFO-21,911905,urogenital_system,ovary,OV,Amplification,cnaOV94
+EFO-21,911905,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+EFO-21,911905,urogenital_system,ovary,OV,Amplification,cnaOV96
+EFO-21,911905,urogenital_system,ovary,OV,Deletion,cnaOV102
+EKVX,905970,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+EKVX,905970,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+EMC-BAC-1,1503369,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+EMC-BAC-1,1503369,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD6 (SMARCA4)
+EMC-BAC-1,1503369,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+EMC-BAC-1,1503369,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+EMC-BAC-2,1503370,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+EMC-BAC-2,1503370,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+EMC-BAC-2,1503370,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+EPLC-272H,753556,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+EPLC-272H,753556,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+EPLC-272H,753556,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC11 (GNAQ,NTRK2,PCSK5,TJP2)"
+EPLC-272H,753556,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC41 (AKAP9)
+EPLC-272H,753556,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+ESO26,1503366,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+ESO26,1503366,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA5 (PAX5)
+ESO26,1503366,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+ESO26,1503366,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+ESO51,1503367,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+ESO51,1503367,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA4 (FGFR1,WHSC1L1)"
+ESO51,1503367,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA10
+ESO51,1503367,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+EVSA-T,906862,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+EVSA-T,906862,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+EVSA-T,906862,breast,breast,BRCA,Amplification,cnaBRCA15
+EVSA-T,906862,breast,breast,BRCA,Deletion,cnaBRCA18
+EVSA-T,906862,breast,breast,BRCA,Amplification,cnaBRCA31
+EVSA-T,906862,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+FADU,906863,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+FADU,906863,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+FADU,906863,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC15 (NR2F2,PCSK6)"
+FADU,906863,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+FADU,906863,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+FADU,906863,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+FADU,906863,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+Farage,1297449,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC1 (CIITA)
+Farage,1297449,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+FLO-1,1503361,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+FLO-1,1503361,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+FU-OV-1,1240129,urogenital_system,ovary,OV,Amplification,cnaOV18 (CCNE1)
+FU-OV-1,1240129,urogenital_system,ovary,OV,Amplification,cnaOV19
+FU-OV-1,1240129,urogenital_system,ovary,OV,Deletion,cnaOV31 (CREBBP)
+FU-OV-1,1240129,urogenital_system,ovary,OV,Deletion,cnaOV43 (NF1)
+FU-OV-1,1240129,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+FU-OV-1,1240129,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+FU97,1290806,digestive_system,stomach,STAD,Deletion,cnaSTAD11
+FU97,1290806,digestive_system,stomach,STAD,Deletion,cnaSTAD14
+FU97,1290806,digestive_system,stomach,STAD,Deletion,cnaSTAD27 (MAP2K4)
+FU97,1290806,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+G-361,906865,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+G-MEL,1240130,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+GAK,910932,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+GAK,910932,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+GAMG,906868,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+GB-1,687568,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+GB-1,687568,nervous_system,glioma,GBM,Amplification,cnaGBM25 (CDK4)
+GB-1,687568,nervous_system,glioma,GBM,Amplification,cnaGBM122
+GCIY,906869,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+GCIY,906869,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+GCIY,906869,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+GCIY,906869,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+GCIY,906869,digestive_system,stomach,STAD,Amplification,cnaSTAD31
+GCIY,906869,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+GDM-1,906870,leukemia,acute_myeloid_leukaemia,LAML,Deletion,cnaLAML8
+GI-1,906871,nervous_system,glioma,LGG,Amplification,cnaLGG4
+GI-1,906871,nervous_system,glioma,LGG,Amplification,cnaLGG5
+GI-1,906871,nervous_system,glioma,LGG,Amplification,"cnaLGG6 (MDM4,PIK3C2B,ZC3H11A)"
+GI-1,906871,nervous_system,glioma,LGG,Amplification,"cnaLGG13 (FGFR1,WHSC1L1)"
+GI-1,906871,nervous_system,glioma,LGG,Amplification,cnaLGG16 (EGFR)
+GMS-10,906873,nervous_system,glioma,GBM,Deletion,"cnaGBM4 (GNAQ,PCSK5,TJP2)"
+GMS-10,906873,nervous_system,glioma,GBM,Deletion,cnaGBM56 (NF1)
+GMS-10,906873,nervous_system,glioma,GBM,Deletion,cnaGBM101
+GP5d,907291,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+GP5d,907291,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+GP5d,907291,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+GP5d,907291,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+GRANTA-519,1303897,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD7
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD19 (NTRK2)
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD20
+GT3TKB,907041,digestive_system,stomach,STAD,Deletion,cnaSTAD42
+H2369,1290808,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2373,1290809,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2461,1290810,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2591,1240131,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2595,1240132,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2595,1240132,lung,mesothelioma,MESO,Deletion,cnaMESO3 (BAP1)
+H2722,1290812,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2722,1290812,lung,mesothelioma,MESO,Deletion,cnaMESO3 (BAP1)
+H2731,1240134,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2731,1240134,lung,mesothelioma,MESO,Deletion,cnaMESO3 (BAP1)
+H2795,1290813,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2795,1290813,lung,mesothelioma,MESO,Deletion,cnaMESO3 (BAP1)
+H2803,1240135,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2810,1240137,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2818,1290814,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2869,1240138,lung,mesothelioma,MESO,Deletion,cnaMESO1
+H2869,1240138,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H2869,1240138,lung,mesothelioma,MESO,Deletion,cnaMESO3 (BAP1)
+H2869,1240138,lung,mesothelioma,MESO,Deletion,cnaMESO4
+H290,1240139,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD12
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD32
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+H3255,1247873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD35 (MECOM)
+H4,907042,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+H4,907042,nervous_system,glioma,LGG,Amplification,cnaLGG16 (EGFR)
+H513,1240141,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+HA7-RCC,753558,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+HARA,1240142,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+HARA,1240142,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+HARA,1240142,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC8
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC16
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC21
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC22 (SMARCA4)
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC23
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC28
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC29 (FOXP1)
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC44
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+HCC-15,1240143,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+HCC-44,1240145,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+HCC-44,1240145,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+HCC-44,1240145,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD23 (ARFGAP1)
+HCC-44,1240145,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+HCC-44,1240145,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+HCC-56,1290907,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+HCC-78,1290908,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+HCC-78,1290908,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+HCC-827,1240146,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+HCC-827,1240146,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+HCC-827,1240146,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+HCC1143,749710,breast,breast,BRCA,Amplification,"cnaBRCA10 (MDM2,NUP107)"
+HCC1143,749710,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1143,749710,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1143,749710,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1143,749710,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC1143,749710,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+HCC1143,749710,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+HCC1143,749710,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+HCC1187,749711,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC1187,749711,breast,breast,BRCA,Amplification,cnaBRCA62
+HCC1395,749712,breast,breast,BRCA,Deletion,"cnaBRCA7 (FAS,PTEN)"
+HCC1395,749712,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC1395,749712,breast,breast,BRCA,Amplification,cnaBRCA48
+HCC1395,749712,breast,breast,BRCA,Deletion,cnaBRCA57
+HCC1419,907045,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1419,907045,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1419,907045,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1419,907045,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+HCC1419,907045,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+HCC1419,907045,breast,breast,BRCA,Amplification,cnaBRCA31
+HCC1428,1290905,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+HCC1428,1290905,breast,breast,BRCA,Amplification,"cnaBRCA8 (CHD4,WNK1)"
+HCC1428,1290905,breast,breast,BRCA,Amplification,"cnaBRCA10 (MDM2,NUP107)"
+HCC1428,1290905,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1428,1290905,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1428,1290905,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1428,1290905,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+HCC1428,1290905,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+HCC1428,1290905,breast,breast,BRCA,Amplification,cnaBRCA31
+HCC1428,1290905,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+HCC1428,1290905,breast,breast,BRCA,Deletion,cnaBRCA57
+HCC1500,1303900,breast,breast,BRCA,Deletion,"cnaBRCA7 (FAS,PTEN)"
+HCC1500,1303900,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA20
+HCC1500,1303900,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA23
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA28 (GPS2)
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+HCC1500,1303900,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA33
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA34
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA35
+HCC1500,1303900,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA38
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA42
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA43
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA59
+HCC1500,1303900,breast,breast,BRCA,Deletion,cnaBRCA60
+HCC1569,907046,breast,breast,BRCA,Deletion,cnaBRCA1 (STK11)
+HCC1569,907046,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1569,907046,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC1569,907046,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC1569,907046,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+HCC1599,749713,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+HCC1599,749713,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1599,749713,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1599,749713,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1599,749713,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC1599,749713,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC1599,749713,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+HCC1599,749713,breast,breast,BRCA,Deletion,cnaBRCA38
+HCC1599,749713,breast,breast,BRCA,Amplification,cnaBRCA62
+HCC1937,749714,breast,breast,BRCA,Amplification,"cnaBRCA8 (CHD4,WNK1)"
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA9 (KRAS)
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA19
+HCC1937,749714,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+HCC1954,749709,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC1954,749709,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+HCC1954,749709,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA62
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA63
+HCC1954,749709,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+HCC202,1290906,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC202,1290906,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC202,1290906,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC202,1290906,breast,breast,BRCA,Deletion,cnaBRCA23
+HCC202,1290906,breast,breast,BRCA,Deletion,cnaBRCA24
+HCC202,1290906,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+HCC202,1290906,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+HCC2157,749715,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC2157,749715,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC2157,749715,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC2157,749715,breast,breast,BRCA,Deletion,cnaBRCA33
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC2218,749716,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC2218,749716,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+HCC2218,749716,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA31
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA62
+HCC2218,749716,breast,breast,BRCA,Amplification,cnaBRCA63
+HCC2998,905971,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+HCC2998,905971,large_intestine,large_intestine,COAD/READ,Deletion,"cnaCOREAD42 (B2M,BUB1B,MGA,TP53BP1)"
+HCC2998,905971,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA1 (STK11)
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA3
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA4
+HCC38,749717,breast,breast,BRCA,Deletion,"cnaBRCA7 (FAS,PTEN)"
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC38,749717,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA24
+HCC38,749717,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA28 (GPS2)
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA34
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA38
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA42
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA44 (PAX5)
+HCC38,749717,breast,breast,BRCA,Deletion,cnaBRCA60
+HCC70,907048,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA15
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA16
+HCC70,907048,breast,breast,BRCA,Deletion,cnaBRCA17
+HCC70,907048,breast,breast,BRCA,Deletion,cnaBRCA18
+HCC70,907048,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA48
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA61 (NOTCH2)
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA62
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA63
+HCC70,907048,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+HCE-4,753559,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+HCT-116,905936,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+HCT-116,905936,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+HCT-116,905936,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+HCT-116,905936,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+HCT-116,905936,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+HCT-15,905937,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+HCT-15,905937,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+HCT-15,905937,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+HCT-15,905937,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA9 (KRAS)
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA15
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA16
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA31
+HDQ-P1,1290922,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA48
+HDQ-P1,1290922,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+HEC-1,907051,urogenital_system,endometrium,UCEC,Amplification,cnaUCEC10
+HEC-1,907051,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC50
+HeLa,1298134,urogenital_system,cervix,CESC,Amplification,cnaCESC1
+Hep 3B2_1-7,1240147,digestive_system,liver,LIHC,Deletion,cnaLIHC10 (RB1)
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV48 (SOX17)
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV49
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV50
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV86 (KAT6B)
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV94
+Hey,1479988,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD12
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+HGC-27,907055,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+HGC-27,907055,digestive_system,stomach,STAD,Deletion,cnaSTAD49 (PTEN)
+HLE,907057,digestive_system,liver,LIHC,Deletion,cnaLIHC10 (RB1)
+HMV-II,907058,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+HMV-II,907058,skin,melanoma,SKCM,Deletion,cnaSKCM24
+HMV-II,907058,skin,melanoma,SKCM,Deletion,cnaSKCM25
+HN,907059,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+HN,907059,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC8
+HN,907059,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+HN,907059,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC29
+HO-1-N-1,924111,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+HO-1-u-1,753561,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+HO-1-u-1,753561,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+HOP-62,905972,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+HOP-62,905972,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+HPAF-II,724869,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+Hs683,1240150,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+Hs683,1240150,nervous_system,glioma,LGG,Deletion,cnaLGG2
+Hs683,1240150,nervous_system,glioma,LGG,Deletion,cnaLGG14 (CUL2)
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD11
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD12
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD23
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,cnaSTAD42
+Hs746T,1240151,digestive_system,stomach,STAD,Amplification,cnaSTAD44 (AKAP9)
+Hs746T,1240151,digestive_system,stomach,STAD,Amplification,cnaSTAD45 (MET)
+Hs746T,1240151,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,cnaSKCM2
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,cnaSKCM18
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,cnaSKCM19
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,cnaSKCM24
+Hs939-T,1298144,skin,melanoma,SKCM,Deletion,cnaSKCM25
+Hs940-T,1298145,skin,melanoma,SKCM,Deletion,cnaSKCM3
+Hs940-T,1298145,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+Hs940-T,1298145,skin,melanoma,SKCM,Deletion,cnaSKCM9
+HSC-2,753562,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+HSC-2,753562,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+HSC-2,753562,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+HSC-2,753562,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC29
+HSC-3,907061,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+HSC-3,907061,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+HSC-3,907061,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC21 (MCM3)
+HSC-39,1322224,digestive_system,stomach,STAD,Deletion,cnaSTAD7
+HSC-39,1322224,digestive_system,stomach,STAD,Amplification,cnaSTAD8 (CAT)
+HSC-39,1322224,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+HSC-39,1322224,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+HSC-39,1322224,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+HSC-39,1322224,digestive_system,stomach,STAD,Amplification,cnaSTAD46
+HSC-4,907062,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+HSC-4,907062,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+HSC-4,907062,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+HSC-4,907062,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+HT,907063,lymphoma,B_cell_lymphoma,DLBC,Amplification,"cnaDLBC7 (BCL11A,REL,XPO1)"
+HT-115,907289,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD10
+HT-115,907289,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+HT-115,907289,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+HT-115,907289,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+HT-1197,907065,urogenital_system,Bladder,BLCA,Amplification,"cnaBLCA3 (GATA3,KLF6,LARP4B,VIM)"
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA1
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,"cnaBLCA3 (GATA3,KLF6,LARP4B,VIM)"
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA9
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA12 (MACF1)
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA13 (SDHC)
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,"cnaBLCA19 (ERCC5,ING1,IRS2,TFDP1)"
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA21 (EGFR)
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA22 (PABPC1)
+HT-1376,907066,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA23 (MYC)
+HT-144,907067,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+HT-144,907067,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+HT-29,905939,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+HT55,907287,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+HT55,907287,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+HT55,907287,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD28 (SOX9)
+HT55,907287,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+huH-1,1298146,digestive_system,liver,LIHC,Deletion,cnaLIHC7 (CDKN2A)
+HuP-T3,907285,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+HuP-T4,907286,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+IGR-1,907169,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM3
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM5 (PAX5)
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM9
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM17
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM22
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM23
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM24
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM25
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM26
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM28
+IGR-37,1240153,skin,melanoma,SKCM,Deletion,cnaSKCM30
+IM-95,1240155,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+IM-95,1240155,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+IM-95,1240155,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+IM-95,1240155,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+IPC-298,907171,skin,melanoma,SKCM,Amplification,cnaSKCM14 (NOTCH2)
+IST-MEL1,907172,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+IST-MES1,907173,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+J82,753566,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA9
+J82,753566,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+J82,753566,urogenital_system,Bladder,BLCA,Amplification,"cnaBLCA19 (ERCC5,ING1,IRS2,TFDP1)"
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV33 (ZFHX3)
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV34
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV39
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV70
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV80
+JHOS-2,1479995,urogenital_system,ovary,OV,Deletion,cnaOV82
+JHOS-2,1479995,urogenital_system,ovary,OV,Amplification,cnaOV94
+JHOS-2,1479995,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV1
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV16
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV17
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV27
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV28
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV29
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV30
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV31 (CREBBP)
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV38
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV41
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV42
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV43 (NF1)
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV44
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV45
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV52
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV53
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV54
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV55
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV58
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV59
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV61
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV62
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV63
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV70
+JHOS-3,1480358,urogenital_system,ovary,OV,Amplification,cnaOV72 (ASXL1)
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV76
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV77
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV78
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV79
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV81 (RB1)
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV83
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV84
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV85
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV87
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV88
+JHOS-3,1480358,urogenital_system,ovary,OV,Deletion,cnaOV102
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV39
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV40
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV52
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV53
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV54
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,cnaOV55
+JHOS-4,1480359,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+JHOS-4,1480359,urogenital_system,ovary,OV,Amplification,"cnaOV75 (NR2F2,PCSK6)"
+JHU-011,1240161,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+JHU-011,1240161,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+JHU-022,1240162,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+JHU-022,1240162,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+JHU-022,1240162,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+JHU-022,1240162,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+JHU-029,1298156,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+JHU-029,1298156,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+JIMT-1,1298157,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+JIMT-1,1298157,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+JIMT-1,1298157,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+JIMT-1,1298157,breast,breast,BRCA,Deletion,cnaBRCA34
+JIMT-1,1298157,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+JIMT-1,1298157,breast,breast,BRCA,Deletion,cnaBRCA41
+JIMT-1,1298157,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+JM1,1327768,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+JM1,1327768,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC5
+JSC-1,1327769,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC2
+K2,1298160,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+KARPAS-1106P,1327773,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC1 (CIITA)
+KARPAS-1106P,1327773,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+KARPAS-1106P,1327773,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC6
+KATOIII,907276,digestive_system,stomach,STAD,Deletion,cnaSTAD6
+KATOIII,907276,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+KATOIII,907276,digestive_system,stomach,STAD,Amplification,cnaSTAD28 (FOXA2)
+KATOIII,907276,digestive_system,stomach,STAD,Amplification,cnaSTAD29 (STK4)
+KATOIII,907276,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+KATOIII,907276,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+KATOIII,907276,digestive_system,stomach,STAD,Amplification,cnaSTAD43 (EGFR)
+KATOIII,907276,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+KINGS-1,907279,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+KINGS-1,907279,nervous_system,glioma,LGG,Deletion,cnaLGG14 (CUL2)
+KLE,924187,urogenital_system,endometrium,UCEC,Amplification,cnaUCEC11 (CCNE1)
+KLE,924187,urogenital_system,endometrium,UCEC,Amplification,cnaUCEC12
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD21
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD22
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD34
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+KM12,905989,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+KMH-2,1298167,thyroid,thyroid,THCA,Amplification,"cnaTHCA7 (ARID4B,FH)"
+KMRC-1,1298168,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+KMRC-20,1298169,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+KMRC-20,1298169,kidney,kidney,KIRC,Deletion,cnaKIRC27
+KNS-42,907282,nervous_system,glioma,LGG,Deletion,cnaLGG7 (RPL22)
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC8
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC16
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC53 (FAS,PTEN)"
+KNS-62,753569,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+KNS-81-FD,924188,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+KNS-81-FD,924188,nervous_system,glioma,LGG,Deletion,cnaLGG7 (RPL22)
+KNS-81-FD,924188,nervous_system,glioma,LGG,Deletion,cnaLGG14 (CUL2)
+KON,1298215,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+KON,1298215,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+KON,1298215,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+KON,1298215,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+KON,1298215,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC29
+KOSC-2,753570,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+KOSC-2,753570,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+KP-1N,1298216,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+KP-1N,1298216,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+KP-4,753572,pancreas,pancreas,PAAD,Amplification,cnaPAAD3
+KP-4,753572,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+KS-1,907313,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+KU-19-19,907312,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+KYAE-1,1503368,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+KYAE-1,1503368,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+KYAE-1,1503368,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+KYSE-140,753573,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-150,907317,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-180,907318,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+KYSE-180,907318,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-180,907318,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+KYSE-220,1240167,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA2 (KRAS)
+KYSE-220,1240167,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA3 (KRAS)
+KYSE-220,1240167,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+KYSE-220,1240167,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-410,753574,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA4 (FGFR1,WHSC1L1)"
+KYSE-410,753574,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+KYSE-410,753574,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-450,907320,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+KYSE-450,907320,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+KYSE-450,907320,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+KYSE-50,1298222,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA2 (KRAS)
+KYSE-50,1298222,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA3 (KRAS)
+KYSE-50,1298222,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+KYSE-50,1298222,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+KYSE-50,1298222,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-510,907321,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA8 (GNG2,SOS2)"
+KYSE-510,907321,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+KYSE-510,907321,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA13 (BLM,CRTC3,IDH2,NR2F2)"
+KYSE-520,753575,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+KYSE-520,753575,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+KYSE-70,753576,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+LB1047-RCC,753577,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+LB1047-RCC,753577,kidney,kidney,KIRC,Deletion,cnaKIRC27
+LB2241-RCC,753578,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+LB2518-MEL,753579,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+LB771-HNC,753583,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+LB771-HNC,753583,aero_dig_tract,head and neck,HNSC,Deletion,"cnaHNSC28 (ATP1A1,CSDE1,NRAS)"
+LB831-BLC,753584,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA13 (SDHC)
+LB831-BLC,753584,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA18 (CHD9,CNOT1,CYLD,MMP2,NUP93)"
+LB831-BLC,753584,urogenital_system,Bladder,BLCA,Deletion,cnaBLCA20
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC12
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC13
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC14
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC15
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC16
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC19
+LB996-RCC,753585,kidney,kidney,KIRC,Deletion,cnaKIRC27
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC5 (HRAS,IRF7)"
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC8
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC15
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC16
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC25
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC26 (SOX2)
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC27 (EIF4A2,RFC4)"
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC30
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC32 (BCL11A,REL,XPO1)"
+LC-1-sq,1298223,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC49
+LC-2-ad,907786,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+LC-2-ad,907786,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD9
+LC-2-ad,907786,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+LC-2-ad,907786,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+LK-2,687787,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC14 (CCT5,TERT,TRIO)"
+LK-2,687787,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+LK-2,687787,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+LN-18,1240168,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+LN-18,1240168,nervous_system,glioma,GBM,Deletion,cnaGBM92
+LN-18,1240168,nervous_system,glioma,GBM,Deletion,cnaGBM93
+LN-18,1240168,nervous_system,glioma,GBM,Deletion,cnaGBM94
+LN-18,1240168,nervous_system,glioma,GBM,Deletion,cnaGBM95
+LN-229,1240169,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+LN-229,1240169,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+LN-229,1240169,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+LN-229,1240169,nervous_system,glioma,GBM,Amplification,cnaGBM122
+LN-229,1240169,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+LN-405,910694,nervous_system,glioma,GBM,Amplification,"cnaGBM61 (MDM4,PIK3C2B,ZC3H11A)"
+LN-405,910694,nervous_system,glioma,GBM,Amplification,cnaGBM63
+LN-405,910694,nervous_system,glioma,GBM,Amplification,cnaGBM80 (MYC)
+LN-405,910694,nervous_system,glioma,GBM,Amplification,cnaGBM88 (CCNE1)
+LN-405,910694,nervous_system,glioma,GBM,Amplification,cnaGBM122
+LNCaP-Clone-FGC,907788,urogenital_system,prostate,PRAD,Deletion,"cnaPRAD14 (BMPR1A,FAS,PTEN)"
+LNZTA3WT4,1240170,nervous_system,glioma,GBM,Deletion,cnaGBM1
+LNZTA3WT4,1240170,nervous_system,glioma,GBM,Amplification,cnaGBM25 (CDK4)
+LNZTA3WT4,1240170,nervous_system,glioma,GBM,Deletion,cnaGBM52 (TP53)
+LOU-NH91,1298226,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+LOU-NH91,1298226,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC17 (FAT1,IRF2)"
+LoVo,907790,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+LoVo,907790,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+LoVo,907790,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+LoVo,907790,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+LOXIMVI,905974,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+LOXIMVI,905974,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+LS-1034,917486,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD7 (CHD4,WNK1)"
+LS-1034,917486,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+LS-123,907792,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+LS-123,907792,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+LS-123,907792,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+LS-123,907792,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+LS-180,998189,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+LS-180,998189,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+LS-180,998189,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+LS-180,998189,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+LS-411N,907794,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+LS-411N,907794,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+LS-513,907795,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+LS-513,907795,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+LS-513,907795,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+M059J,949094,nervous_system,glioma,GBM,Amplification,cnaGBM71 (SOX2)
+MCF7,905946,breast,breast,BRCA,Amplification,cnaBRCA15
+MCF7,905946,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+MCF7,905946,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+MCF7,905946,breast,breast,BRCA,Amplification,cnaBRCA31
+MCF7,905946,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+MCF7,905946,breast,breast,BRCA,Amplification,cnaBRCA48
+MDA-MB-157,925338,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+MDA-MB-157,925338,breast,breast,BRCA,Amplification,cnaBRCA15
+MDA-MB-157,925338,breast,breast,BRCA,Amplification,cnaBRCA16
+MDA-MB-157,925338,breast,breast,BRCA,Amplification,cnaBRCA31
+MDA-MB-157,925338,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+MDA-MB-157,925338,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA15
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA16
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA31
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MDA-MB-175-VII,908120,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+MDA-MB-231,905960,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,cnaBRCA31
+MDA-MB-330,1330941,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+MDA-MB-330,1330941,breast,breast,BRCA,Deletion,cnaBRCA34
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,"cnaBRCA37 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)"
+MDA-MB-330,1330941,breast,breast,BRCA,Deletion,cnaBRCA57
+MDA-MB-330,1330941,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MDA-MB-361,908121,breast,breast,BRCA,Deletion,cnaBRCA18
+MDA-MB-361,908121,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+MDA-MB-361,908121,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+MDA-MB-361,908121,breast,breast,BRCA,Deletion,cnaBRCA38
+MDA-MB-361,908121,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MDA-MB-415,924240,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+MDA-MB-415,924240,breast,breast,BRCA,Deletion,cnaBRCA57
+MDA-MB-415,924240,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MDA-MB-436,1240172,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+MDA-MB-436,1240172,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+MDA-MB-436,1240172,breast,breast,BRCA,Amplification,cnaBRCA48
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA9 (KRAS)
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA15
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA16
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA31
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA40
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA62
+MDA-MB-453,908122,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)
+MDA-MB-468,908123,breast,breast,BRCA,Deletion,cnaBRCA33
+MDA-MB-468,908123,breast,breast,BRCA,Amplification,cnaBRCA47 (EGFR)
+MDST8,1240173,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+MDST8,1240173,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+MDST8,1240173,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD50
+MDST8,1240173,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD51 (MET)
+ME-180,687514,urogenital_system,cervix,CESC,Deletion,cnaCESC10
+ME-180,687514,urogenital_system,cervix,CESC,Deletion,cnaCESC11 (FAS)
+ME-180,687514,urogenital_system,cervix,CESC,Deletion,cnaCESC13
+MEL-HO,908124,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+MEL-HO,908124,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+MEL-JUSO,908125,skin,melanoma,SKCM,Deletion,cnaSKCM3
+MEL-JUSO,908125,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+MEL-JUSO,908125,skin,melanoma,SKCM,Deletion,cnaSKCM26
+Mewo,908128,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+Mewo,908128,skin,melanoma,SKCM,Deletion,cnaSKCM5 (PAX5)
+Mewo,908128,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+Mewo,908128,skin,melanoma,SKCM,Deletion,cnaSKCM28
+MFE-280,908129,urogenital_system,endometrium,UCEC,Amplification,cnaUCEC2 (ERBB3)
+MFE-280,908129,urogenital_system,endometrium,UCEC,Amplification,cnaUCEC7 (MECOM)
+MFE-280,908129,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC8 (SRGAP3)
+MFE-280,908129,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC15 (CREBBP)
+MFE-280,908129,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC44
+MFE-280,908129,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC46 (RB1)
+MFE-280,908129,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC50
+MFE-280,908129,urogenital_system,endometrium,UCEC,Amplification,"cnaUCEC52 (PIP5K1A,SETDB1)"
+MFM-223,910948,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+MFM-223,910948,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+MFM-223,910948,breast,breast,BRCA,Amplification,cnaBRCA15
+MFM-223,910948,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+MFM-223,910948,breast,breast,BRCA,Deletion,"cnaBRCA36 (FAT1,IRF2)"
+MFM-223,910948,breast,breast,BRCA,Amplification,"cnaBRCA37 (BLM,CRTC3,FANCI,IDH2,NR2F2,PCSK6)"
+MFM-223,910948,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+MIA-PaCa-2,724870,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+MKN28,908139,digestive_system,stomach,STAD,Amplification,cnaSTAD2
+MKN28,908139,digestive_system,stomach,STAD,Amplification,cnaSTAD10
+MKN28,908139,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+MKN28,908139,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+MKN28,908139,digestive_system,stomach,STAD,Amplification,cnaSTAD28 (FOXA2)
+MKN28,908139,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD5
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD6
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD7
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD11
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD12
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD14
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD18 (PAX5)
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD19 (NTRK2)
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD20
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD23
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD27 (MAP2K4)
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD42
+MKN45,925340,digestive_system,stomach,STAD,Amplification,cnaSTAD45 (MET)
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+MKN45,925340,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+MKN45,925340,digestive_system,stomach,STAD,Deletion,cnaSTAD51
+MKN7,924250,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+MKN7,924250,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+MKN7,924250,digestive_system,stomach,STAD,Amplification,cnaSTAD22 (ARID4B)
+MKN7,924250,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+MKN7,924250,digestive_system,stomach,STAD,Amplification,cnaSTAD28 (FOXA2)
+MKN7,924250,digestive_system,stomach,STAD,Amplification,cnaSTAD29 (STK4)
+MKN7,924250,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+MKN7,924250,digestive_system,stomach,STAD,Amplification,cnaSTAD35 (IL7R)
+MKN7,924250,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+MKN7,924250,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+MKN7,924250,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+ML-1,1240178,thyroid,thyroid,THCA,Deletion,cnaTHCA2
+ML-1,1240178,thyroid,thyroid,THCA,Deletion,"cnaTHCA3 (FANCG,PAX5)"
+ML-1,1240178,thyroid,thyroid,THCA,Deletion,cnaTHCA6
+MMAC-SF,925339,skin,melanoma,SKCM,Amplification,"cnaSKCM13 (MDM2,NUP107)"
+MMAC-SF,925339,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+MOG-G-CCM,908144,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+MOG-G-CCM,908144,nervous_system,glioma,LGG,Deletion,cnaLGG9
+MOG-G-UVW,908145,nervous_system,glioma,LGG,Amplification,cnaLGG16 (EGFR)
+MRK-nu-1,908151,breast,breast,BRCA,Amplification,"cnaBRCA5 (GATA3,KLF6,LARP4B,VIM)"
+MRK-nu-1,908151,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+MRK-nu-1,908151,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+MRK-nu-1,908151,breast,breast,BRCA,Amplification,cnaBRCA15
+MS751,1240179,urogenital_system,cervix,CESC,Deletion,cnaCESC5 (EXT2)
+MS751,1240179,urogenital_system,cervix,CESC,Amplification,cnaCESC8 (EGFR)
+MS751,1240179,urogenital_system,cervix,CESC,Deletion,cnaCESC15 (FAT1)
+MSTO-211H,908152,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+MZ1-PC,753595,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+MZ2-MEL,971777,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+MZ7-mel,753596,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC3
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC4
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC5
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC12
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC13
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC14
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC15
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC16
+NCC010,1509073,kidney,kidney,KIRC,Deletion,cnaKIRC22
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC5
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC12
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC13
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC14
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC15
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC16
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC19
+NCC021,1509074,kidney,kidney,KIRC,Deletion,cnaKIRC22
+NCI-H1355,724866,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+NCI-H1355,724866,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1355,724866,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H1395,684681,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H1395,684681,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H1395,684681,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD23 (ARFGAP1)
+NCI-H1395,684681,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD2 (PAX5)
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD6 (SMARCA4)
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD7
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD9
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD25
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD31
+NCI-H1435,1298347,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H1437,687794,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1437,687794,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H1437,687794,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H1563,753600,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1563,753600,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H1563,753600,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+NCI-H1563,753600,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H1568,1298348,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H1568,1298348,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+NCI-H1568,1298348,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD2 (PAX5)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD6 (SMARCA4)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD7
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD8
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1573,908472,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD31
+NCI-H1623,687798,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1623,687798,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1648,687799,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1648,687799,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+NCI-H1648,687799,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+NCI-H1648,687799,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+NCI-H1648,687799,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H1650,687800,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1650,687800,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD16
+NCI-H1650,687800,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1650,687800,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H1650,687800,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD31
+NCI-H1651,910900,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1651,910900,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD5 (CUL2,EPC1)"
+NCI-H1651,910900,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H1666,908473,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1666,908473,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H1666,908473,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD23 (ARFGAP1)
+NCI-H1693,687802,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD5 (CUL2,EPC1)"
+NCI-H1693,687802,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+NCI-H1693,687802,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+NCI-H1693,687802,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD25
+NCI-H1693,687802,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD32
+NCI-H1734,722058,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1734,722058,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD35 (MECOM)
+NCI-H1755,908475,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1755,908475,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+NCI-H1781,1298350,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD25
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1792,724868,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H1793,908463,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1793,908463,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H1793,908463,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H1838,687807,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1838,687807,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+NCI-H1838,687807,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H1838,687807,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD26
+NCI-H1838,687807,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC6 (FGFR1,WHSC1L1)"
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC7 (MYC)
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC14 (CCT5,TERT,TRIO)"
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC25
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC37
+NCI-H1869,1240183,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC48 (MCM3)
+NCI-H1944,1240185,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1944,1240185,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD6 (SMARCA4)
+NCI-H1944,1240185,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD7
+NCI-H1975,924244,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H1975,924244,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H1975,924244,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H1975,924244,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD5 (CUL2,EPC1)"
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD23 (ARFGAP1)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD24 (FUS,TAOK2)"
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD32
+NCI-H1993,908476,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD33 (F8,HCFC1,RPL10)"
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD12
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H2009,724873,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H2023,1240187,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2030,722045,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2030,722045,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H2052,688058,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+NCI-H2085,687812,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD2 (PAX5)
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD5 (CUL2,EPC1)"
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD6 (SMARCA4)
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H2087,724834,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H2122,722046,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2122,722046,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC1
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC2
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC6 (FGFR1,WHSC1L1)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC7 (MYC)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC14 (CCT5,TERT,TRIO)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC18
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC19 (MDM2,NUP107)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC20 (TAOK1)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC25
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC30
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC31 (MYCN)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC32 (BCL11A,REL,XPO1)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC33 (INPP4A)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC34 (NFE2L2)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC37
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC38
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC39
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC40 (EGFR)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC41 (AKAP9)
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC45 (FOXA1,NKX2-1)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC46 (AKT1,HSP90AA1,PPP2R5C)"
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC47
+NCI-H2170,687815,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+NCI-H2228,687816,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2228,687816,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+NCI-H2228,687816,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H2228,687816,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD12
+NCI-H2228,687816,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H226,905941,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+NCI-H226,905941,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC44
+NCI-H226,905941,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+NCI-H226,905941,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+NCI-H2291,724874,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+NCI-H2291,724874,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H2291,724874,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H23,905942,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H23,905942,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H23,905942,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD13 (MET)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H2342,687819,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD35 (MECOM)
+NCI-H2347,687820,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H2347,687820,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+NCI-H2405,687821,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H2405,687821,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H2405,687821,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD35 (MECOM)
+NCI-H2452,908462,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+NCI-H28,908470,lung,mesothelioma,MESO,Deletion,cnaMESO2 (CDKN2A)
+NCI-H3122,1240190,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H3122,1240190,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H3122,1240190,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD23 (ARFGAP1)
+NCI-H3122,1240190,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+NCI-H322M,905967,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H322M,905967,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+NCI-H322M,905967,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H322M,905967,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H358,908465,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H441,908460,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H441,908460,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD7
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD25
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD26 (ERBB2)
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD36
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD50
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD51 (MET)
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD64 (PIK3CB)
+NCI-H508,908442,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC6 (FGFR1,WHSC1L1)"
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC7 (MYC)
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC14 (CCT5,TERT,TRIO)"
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC20 (TAOK1)
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC24 (NCK1,STAG1)"
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC25
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC26 (SOX2)
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC27 (EIF4A2,RFC4)"
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC30
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,"cnaLUSC32 (BCL11A,REL,XPO1)"
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC34 (NFE2L2)
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC37
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC48 (MCM3)
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC49
+NCI-H520,908443,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+NCI-H522,905944,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD14
+NCI-H522,905944,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+NCI-H522,905944,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H522,905944,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,"cnaCOREAD42 (B2M,BUB1B,MGA,TP53BP1)"
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD57
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+NCI-H630,908482,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD21 (FOXA2)
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+NCI-H650,722066,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD30 (CCND1)
+NCI-H716,908458,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+NCI-H716,908458,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+NCI-H716,908458,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+NCI-H716,908458,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+NCI-H747,908457,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+NCI-H747,908457,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+NCI-H747,908457,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+NCI-H747,908457,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+NCI-H747,908457,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD25
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD29 (TFDP1)
+NCI-H838,910399,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,"cnaLUAD34 (FAT1,IRF2)"
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD4
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD11
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD27 (MAP2K4)
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD32
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD39
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD40
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+NCI-N87,908461,digestive_system,stomach,STAD,Deletion,cnaSTAD51
+NCI-SNU-1,908444,digestive_system,stomach,STAD,Deletion,cnaSTAD12
+NCI-SNU-1,908444,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+NCI-SNU-1,908444,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+NCI-SNU-1,908444,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+NCI-SNU-1,908444,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+NCI-SNU-16,908446,digestive_system,stomach,STAD,Amplification,cnaSTAD8 (CAT)
+NCI-SNU-16,908446,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+NCI-SNU-16,908446,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+NCI-SNU-5,908445,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+NCI-SNU-5,908445,digestive_system,stomach,STAD,Amplification,cnaSTAD43 (EGFR)
+NCI-SNU-5,908445,digestive_system,stomach,STAD,Amplification,cnaSTAD44 (AKAP9)
+NCI-SNU-5,908445,digestive_system,stomach,STAD,Amplification,cnaSTAD45 (MET)
+NMC-G1,908449,nervous_system,glioma,LGG,Deletion,"cnaLGG1 (BNC2,CDKN2A,JAK2,PSIP1)"
+NMC-G1,908449,nervous_system,glioma,LGG,Deletion,cnaLGG14 (CUL2)
+NOMO-1,908451,leukemia,acute_myeloid_leukaemia,LAML,Deletion,cnaLAML6
+NUGC-3,908455,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+NUGC-4,1298357,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+NUGC-4,1298357,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+NUGC-4,1298357,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+NUGC-4,1298357,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+OACM5-1,1503363,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+OACM5-1,1503363,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA5 (PAX5)
+OACM5-1,1503363,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+OACp4C,1503362,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+OAW-28,946360,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV8
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV10
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV20
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV21
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV22
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV27
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV28
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV29
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV30
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV40
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV41
+OAW-28,946360,urogenital_system,ovary,OV,Amplification,cnaOV47
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV52
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV53
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV54
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV55
+OAW-28,946360,urogenital_system,ovary,OV,Amplification,cnaOV72 (ASXL1)
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV80
+OAW-28,946360,urogenital_system,ovary,OV,Deletion,cnaOV81 (RB1)
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV48 (SOX17)
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV49
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV50
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV74 (ARFGAP1)
+OAW-42,910548,urogenital_system,ovary,OV,Amplification,cnaOV96
+OCI-LY-19,1330984,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC4 (CDKN2A)
+OCUB-M,909256,breast,breast,BRCA,Amplification,"cnaBRCA8 (CHD4,WNK1)"
+OCUB-M,909256,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+OCUB-M,909256,breast,breast,BRCA,Amplification,cnaBRCA15
+OCUB-M,909256,breast,breast,BRCA,Amplification,cnaBRCA16
+OCUB-M,909256,breast,breast,BRCA,Amplification,cnaBRCA19
+OCUB-M,909256,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+OCUB-M,909256,breast,breast,BRCA,Deletion,"cnaBRCA25 (ARID1B,MAP3K4,MLLT4)"
+OCUB-M,909256,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+OCUB-M,909256,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+OCUM-1,1298358,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+OCUM-1,1298358,digestive_system,stomach,STAD,Deletion,cnaSTAD7
+OCUM-1,1298358,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+OCUM-1,1298358,digestive_system,stomach,STAD,Deletion,cnaSTAD42
+OE19,910079,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+OE21,1298359,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+OE21,1298359,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+OE21,1298359,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+OE33,910549,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+OE33,910549,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA10
+OE33,910549,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+OE33,910549,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA13 (BLM,CRTC3,IDH2,NR2F2)"
+OMC-1,949154,urogenital_system,cervix,CESC,Amplification,cnaCESC4 (ASXL1)
+OMC-1,949154,urogenital_system,cervix,CESC,Amplification,cnaCESC12 (MYC)
+OS-RC-2,909250,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC8
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC21 (MCM3)
+OSC-19,1298362,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC33
+OSC-20,1240196,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+OSC-20,1240196,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC8
+OSC-20,1240196,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+OSC-20,1240196,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+OSC-20,1240196,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+OV-17R,1480361,urogenital_system,ovary,OV,Deletion,cnaOV38
+OV-17R,1480361,urogenital_system,ovary,OV,Deletion,cnaOV39
+OV-17R,1480361,urogenital_system,ovary,OV,Deletion,cnaOV40
+OV-56,1480362,urogenital_system,ovary,OV,Amplification,cnaOV49
+OV-56,1480362,urogenital_system,ovary,OV,Amplification,cnaOV50
+OV-56,1480362,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV13
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV14
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV15
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV16
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV17
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV25
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV32
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV33 (ZFHX3)
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV34
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV35
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV36
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV41
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV42
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV52
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV53
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV54
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV55
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV87
+OV-7,1480360,urogenital_system,ovary,OV,Deletion,cnaOV88
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV1
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV2
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV20
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV21
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV22
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV23 (SMARCA4)
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV27
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV28
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV29
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV30
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV35
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV52
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV53
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV54
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV55
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV56
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV57 (ZNRF3)
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV58
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV59
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV83
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV84
+OV-90,1240197,urogenital_system,ovary,OV,Deletion,cnaOV85
+OVCA433,1480367,urogenital_system,ovary,OV,Amplification,cnaOV94
+OVCA433,1480367,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+OVCAR-3,905933,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+OVCAR-3,905933,urogenital_system,ovary,OV,Amplification,cnaOV18 (CCNE1)
+OVCAR-3,905933,urogenital_system,ovary,OV,Amplification,cnaOV26
+OVCAR-3,905933,urogenital_system,ovary,OV,Amplification,cnaOV86 (KAT6B)
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV18 (CCNE1)
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV19
+OVCAR-4,905990,urogenital_system,ovary,OV,Deletion,cnaOV20
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV60
+OVCAR-4,905990,urogenital_system,ovary,OV,Deletion,cnaOV83
+OVCAR-4,905990,urogenital_system,ovary,OV,Deletion,cnaOV84
+OVCAR-4,905990,urogenital_system,ovary,OV,Deletion,cnaOV85
+OVCAR-4,905990,urogenital_system,ovary,OV,Amplification,cnaOV94
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV16
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV17
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV38
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV39
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV40
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV52
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV53
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV54
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV55
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV83
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV84
+OVCAR-5,905969,urogenital_system,ovary,OV,Deletion,cnaOV85
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV34
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV35
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV38
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV39
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV40
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV84
+OVCAR-8,905991,urogenital_system,ovary,OV,Deletion,cnaOV85
+OVISE,1240198,urogenital_system,ovary,OV,Amplification,"cnaOV5 (MDM2,NUP107)"
+OVK-18,1480371,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV16
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV17
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV20
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV27
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV28
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV29
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV30
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV33 (ZFHX3)
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV34
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV35
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV36
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV38
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV39
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV40
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV41
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV42
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV43 (NF1)
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV44
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV45
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV56
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV57 (ZNRF3)
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV58
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV59
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV61
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV62
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV63
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV67
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV69
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV82
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV83
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV84
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV85
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV87
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV88
+OVKATE,1240199,urogenital_system,ovary,OV,Deletion,cnaOV102
+OVMIU,1240200,urogenital_system,ovary,OV,Amplification,cnaOV48 (SOX17)
+OVMIU,1240200,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+OVMIU,1240200,urogenital_system,ovary,OV,Deletion,cnaOV52
+OVMIU,1240200,urogenital_system,ovary,OV,Deletion,cnaOV53
+OVMIU,1240200,urogenital_system,ovary,OV,Deletion,cnaOV54
+OVMIU,1240200,urogenital_system,ovary,OV,Deletion,cnaOV55
+OVTOKO,1298365,urogenital_system,ovary,OV,Amplification,cnaOV26
+OVTOKO,1298365,urogenital_system,ovary,OV,Amplification,cnaOV99 (DHX9)
+P31-FUJ,909253,leukemia,acute_myeloid_leukaemia,LAML,Deletion,cnaLAML8
+PA-TU-8902,1298526,pancreas,pancreas,PAAD,Amplification,cnaPAAD1 (WNK1)
+PA-TU-8902,1298526,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+PA-TU-8988T,1240201,pancreas,pancreas,PAAD,Amplification,cnaPAAD3
+PANC-03-27,925346,pancreas,pancreas,PAAD,Amplification,cnaPAAD3
+PANC-03-27,925346,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+PANC-08-13,925347,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+PC-14,753608,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+PC-14,753608,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD11 (EGFR)
+PC-3,905934,urogenital_system,prostate,PRAD,Amplification,cnaPRAD3 (RHEB)
+PC-3,905934,urogenital_system,prostate,PRAD,Deletion,cnaPRAD8 (CIC)
+PC-3,905934,urogenital_system,prostate,PRAD,Deletion,"cnaPRAD14 (BMPR1A,FAS,PTEN)"
+PC-3 [JPC-3],1240202,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+PC-3 [JPC-3],1240202,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC4
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC5 (MYC)
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC14 (ASXL1)
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+PCI-15A,1240204,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC21 (MCM3)
+PCI-30,1298529,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+PCI-30,1298529,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC19 (MED17)
+PCI-30,1298529,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC22
+PCI-30,1298529,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC8
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC23 (MDM2,NUP107,SRGAP1)"
+PCI-38,1240205,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+PCI-4B,1298531,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC1 (ACTB,CARD11,PMS2,RAC1)"
+PCI-4B,1298531,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+PCI-4B,1298531,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+PCI-6A,1240206,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+PCI-6A,1240206,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+PE/CA-PJ15,1240207,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+PE/CA-PJ15,1240207,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+PE/CA-PJ15,1240207,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+PE/CA-PJ15,1240207,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC33
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV1
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV2
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV16
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV17
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV20
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV21
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV22
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV27
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV28
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV29
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV30
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV33 (ZFHX3)
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV34
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV35
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV36
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV38
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV39
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV40
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV41
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV42
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV43 (NF1)
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV44
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV54
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV56
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV57 (ZNRF3)
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV58
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,"cnaOV64 (ARID1B,MAP3K4,MLLT4)"
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV69
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV70
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV81 (RB1)
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV82
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV89
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV90
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV91 (ABL1)
+PEO1,1480372,urogenital_system,ovary,OV,Deletion,cnaOV92
+PL18,1240208,pancreas,pancreas,PAAD,Amplification,cnaPAAD3
+PL18,1240208,pancreas,pancreas,PAAD,Amplification,cnaPAAD5 (NOTCH2)
+PL4,1298533,pancreas,pancreas,PAAD,Amplification,cnaPAAD1 (WNK1)
+PL4,1298533,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+PL4,1298533,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+PSN1,910546,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+PSN1,910546,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+PWR-1E,1330993,urogenital_system,prostate,PRAD,Deletion,cnaPRAD7
+RC-K8,1330995,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC5
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC10
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC16
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC19
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,cnaKIRC23
+RCC-AB,1524418,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,cnaKIRC22
+RCC-ER,1524417,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+RCC-FG2,1524414,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC-FG2,1524414,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC-FG2,1524414,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC-FG2,1524414,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC-FG2,1524414,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC-JF,1524415,kidney,kidney,KIRC,Deletion,cnaKIRC22
+RCC-JW,1524416,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC16
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC22
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,cnaKIRC23
+RCC-MF,1524419,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC3
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC4
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC12
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC13
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC14
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC15
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC22
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,cnaKIRC23
+RCC10RGB,909974,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+RCM-1,909263,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+RCM-1,909263,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD57
+RCM-1,909263,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Amplification,cnaSTAD29 (STK4)
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD36
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD50
+RERF-GC-1B,1240209,digestive_system,stomach,STAD,Deletion,cnaSTAD51
+RERF-LC-MS,910931,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,"cnaLUAD10 (AHR,HDAC9)"
+RERF-LC-MS,910931,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD12
+RERF-LC-MS,910931,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+RERF-LC-MS,910931,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD19 (CDK4)
+RERF-LC-MS,910931,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD27 (MYC)
+RERF-LC-Sq1,1298538,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+RERF-LC-Sq1,1298538,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+RERF-LC-Sq1,1298538,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC26 (SOX2)
+RERF-LC-Sq1,1298538,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Amplification,cnaLUSC41 (AKAP9)
+RERF-LC-Sq1,1298538,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+RF-48,909697,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+RF-48,909697,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+RF-48,909697,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+RKO,909698,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+RKO,909698,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+RKO,909698,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+RKO,909698,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+RPMI-2650,909700,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+RPMI-7951,910903,skin,melanoma,SKCM,Deletion,cnaSKCM22
+RT-112,909704,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA5 (FAT1,IRF2)"
+RT-112,909704,urogenital_system,Bladder,BLCA,Deletion,cnaBLCA6
+RVH-421,909706,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+RVH-421,909706,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+RXF393,905978,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+RXF393,905978,kidney,kidney,KIRC,Deletion,cnaKIRC16
+RXF393,905978,kidney,kidney,KIRC,Deletion,cnaKIRC19
+RXF393,905978,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+SAS,909708,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+SAS,909708,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+SAT,1299050,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC20
+SCC-15,910911,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC2 (EGFR)
+SCC-15,910911,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC3
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC19 (MED17)
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+SCC-25,910701,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+SCC-4,910904,aero_dig_tract,head and neck,HNSC,Amplification,"cnaHNSC17 (CCND1,CTTN)"
+SCC-4,910904,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC26
+SCC-9,909709,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC9 (FANCG)
+SCC-9,909709,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+SCC-9,909709,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC32 (FAT1)
+SCC90,1299052,aero_dig_tract,head and neck,HNSC,Amplification,cnaHNSC33
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM77
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM93
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM94
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM95
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM132
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM133
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM134
+SF126,909712,nervous_system,glioma,GBM,Deletion,cnaGBM135
+SF268,905986,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+SF268,905986,nervous_system,glioma,GBM,Deletion,cnaGBM14
+SF295,905985,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+SF295,905985,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+SF539,905984,nervous_system,glioma,LGG,Amplification,cnaLGG16 (EGFR)
+SH-4,909713,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SiHa,930297,urogenital_system,cervix,CESC,Amplification,cnaCESC4 (ASXL1)
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD51 (MET)
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SK-CO-1,909718,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SK-GT-2,1503364,digestive_system,stomach,STAD,Deletion,cnaSTAD13
+SK-GT-2,1503364,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+SK-GT-2,1503364,digestive_system,stomach,STAD,Deletion,cnaSTAD27 (MAP2K4)
+SK-GT-2,1503364,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+SK-GT-4,1503365,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA1
+SK-HEP-1,909719,digestive_system,liver,LIHC,Deletion,cnaLIHC7 (CDKN2A)
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD3 (TERT)
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD12
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD17 (KRAS)
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD18
+SK-LU-1,909721,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Amplification,cnaLUAD22 (ASXL1)
+SK-MEL-1,909723,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+SK-MEL-1,909723,skin,melanoma,SKCM,Amplification,"cnaSKCM13 (MDM2,NUP107)"
+SK-MEL-1,909723,skin,melanoma,SKCM,Deletion,cnaSKCM26
+SK-MEL-2,905955,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SK-MEL-2,905955,skin,melanoma,SKCM,Deletion,cnaSKCM9
+SK-MEL-2,905955,skin,melanoma,SKCM,Deletion,cnaSKCM20
+SK-MEL-2,905955,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+SK-MEL-2,905955,skin,melanoma,SKCM,Deletion,cnaSKCM28
+SK-MEL-24,909725,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SK-MEL-24,909725,skin,melanoma,SKCM,Deletion,cnaSKCM22
+SK-MEL-28,905954,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SK-MEL-28,905954,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+SK-MEL-28,905954,skin,melanoma,SKCM,Amplification,cnaSKCM14 (NOTCH2)
+SK-MEL-28,905954,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+SK-MEL-30,909726,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+SK-MEL-31,909727,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SK-MEL-31,909727,skin,melanoma,SKCM,Amplification,cnaSKCM12 (KRAS)
+SK-MEL-31,909727,skin,melanoma,SKCM,Deletion,cnaSKCM24
+SK-MEL-31,909727,skin,melanoma,SKCM,Deletion,cnaSKCM25
+SK-MEL-31,909727,skin,melanoma,SKCM,Deletion,cnaSKCM27 (CASP1)
+SK-MEL-31,909727,skin,melanoma,SKCM,Deletion,cnaSKCM30
+SK-MEL-5,905956,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+SK-MEL-5,905956,skin,melanoma,SKCM,Amplification,cnaSKCM6 (TERT)
+SK-MES-1,909728,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+SK-MES-1,909728,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+SK-MG-1,909729,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+SK-MG-1,909729,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+SK-MG-1,909729,nervous_system,glioma,GBM,Deletion,cnaGBM56 (NF1)
+SK-MG-1,909729,nervous_system,glioma,GBM,Deletion,cnaGBM127
+SK-OV-3,905959,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+SK-OV-3,905959,urogenital_system,ovary,OV,Amplification,cnaOV72 (ASXL1)
+SK-OV-3,905959,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+SK-OV-3,905959,urogenital_system,ovary,OV,Amplification,cnaOV99 (DHX9)
+SK-OV-3,905959,urogenital_system,ovary,OV,Amplification,cnaOV101 (PMS1)
+SKG-IIIa,930298,urogenital_system,cervix,CESC,Deletion,cnaCESC3 (PAX5)
+SKG-IIIa,930298,urogenital_system,cervix,CESC,Deletion,cnaCESC14
+SKN-3,1299059,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC6
+SKN-3,1299059,aero_dig_tract,head and neck,HNSC,Deletion,cnaHNSC11 (CDKN2A)
+SNB75,905982,nervous_system,glioma,GBM,Deletion,cnaGBM133
+SNG-M,909735,urogenital_system,endometrium,UCEC,Deletion,cnaUCEC8 (SRGAP3)
+SNU-182,1240216,digestive_system,liver,LIHC,Deletion,cnaLIHC13
+SNU-283,1659929,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD27 (MAP2K4)
+SNU-283,1659929,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+SNU-283,1659929,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+SNU-283,1659929,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+SNU-387,909736,digestive_system,liver,LIHC,Deletion,cnaLIHC7 (CDKN2A)
+SNU-407,1660034,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+SNU-407,1660034,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SNU-407,1660034,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+SNU-407,1660034,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SNU-423,909737,digestive_system,liver,LIHC,Amplification,cnaLIHC1 (TERT)
+SNU-423,909737,digestive_system,liver,LIHC,Amplification,cnaLIHC5
+SNU-423,909737,digestive_system,liver,LIHC,Amplification,cnaLIHC9 (FOXA2)
+SNU-423,909737,digestive_system,liver,LIHC,Amplification,cnaLIHC11
+SNU-449,909738,digestive_system,liver,LIHC,Deletion,cnaLIHC7 (CDKN2A)
+SNU-449,909738,digestive_system,liver,LIHC,Deletion,cnaLIHC10 (RB1)
+SNU-449,909738,digestive_system,liver,LIHC,Deletion,cnaLIHC13
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+SNU-61,1660035,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SNU-81,1660036,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SNU-81,1660036,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD44
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+SNU-C1,910905,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD63 (APC)
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD14
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SNU-C2B,909740,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SNU-C5,1674021,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SNU-C5,1674021,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SNU-C5,1674021,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+SNU-C5,1674021,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SU8686,1240218,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+SU8686,1240218,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+SUIT-2,1240219,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+SW1088,909745,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+SW1088,909745,nervous_system,glioma,GBM,Deletion,cnaGBM101
+SW1088,909745,nervous_system,glioma,GBM,Amplification,cnaGBM122
+SW1088,909745,nervous_system,glioma,GBM,Amplification,cnaGBM123 (EGFR)
+SW1088,909745,nervous_system,glioma,GBM,Amplification,cnaGBM124
+SW1088,909745,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SW1116,909746,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD14
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD31
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD32 (STK4)
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SW1417,909747,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD36
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD45
+SW1463,909748,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SW1573,724878,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+SW1573,724878,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD15
+SW1710,909749,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+SW1710,909749,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA23 (MYC)
+SW1783,909750,nervous_system,glioma,LGG,Amplification,"cnaLGG13 (FGFR1,WHSC1L1)"
+SW1783,909750,nervous_system,glioma,LGG,Amplification,cnaLGG16 (EGFR)
+SW1990,910907,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+SW48,909751,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SW48,909751,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SW48,909751,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD66
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD12 (PCDH18)
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD13
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD18
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD27 (MAP2K4)
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SW620,905962,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD47 (MYC)
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SW620,905962,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD66
+SW626,909753,urogenital_system,ovary,OV,Deletion,cnaOV54
+SW626,909753,urogenital_system,ovary,OV,Amplification,cnaOV71
+SW626,909753,urogenital_system,ovary,OV,Amplification,cnaOV72 (ASXL1)
+SW626,909753,urogenital_system,ovary,OV,Amplification,cnaOV73
+SW756,724839,urogenital_system,cervix,CESC,Amplification,cnaCESC4 (ASXL1)
+SW780,687457,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD23
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD24
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD27 (MAP2K4)
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD29 (SMARCA4)
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD30
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD48
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD49
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD53 (ARFGAP3)
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD61
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD62
+SW837,909755,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC3
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC4
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC5 (HRAS,IRF7)"
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC10 (CDKN2A)
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC51
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,"cnaLUSC53 (FAS,PTEN)"
+SW900,724879,lung_NSCLC,lung_NSCLC_squamous_cell_carcinoma,LUSC,Deletion,cnaLUSC54
+SW948,909757,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD19
+SW948,909757,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD35 (FLT3,WASF3)"
+SW948,909757,large_intestine,large_intestine,COAD/READ,Amplification,cnaCOREAD36
+SW948,909757,large_intestine,large_intestine,COAD/READ,Amplification,"cnaCOREAD37 (ING1,IRS2,TFDP1)"
+SW948,909757,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD65
+T-24,724812,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA15 (ASXL1)
+T-T,1299064,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA2 (KRAS)
+T-T,1299064,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA3 (KRAS)
+T-T,1299064,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+T-T,1299064,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+T47D,905945,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD11
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD33
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD38 (CDKN2A)
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD54 (SMAD4)
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD55
+T84,909761,large_intestine,large_intestine,COAD/READ,Deletion,cnaCOREAD56
+T98G,687586,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+T98G,687586,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+T98G,687586,nervous_system,glioma,GBM,Amplification,cnaGBM125 (AKAP9)
+TCCSUP,687459,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA5 (FAT1,IRF2)"
+TCCSUP,687459,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA9
+TCCSUP,687459,urogenital_system,Bladder,BLCA,Deletion,cnaBLCA20
+TE-10,753622,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+TE-11,946354,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+TE-4,1503371,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+TE-4,1503371,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+TE-5,735784,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA8 (GNG2,SOS2)"
+TE-6,946355,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA7 (ERBB2)
+TE-6,946355,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+TE-6,946355,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+TE-8,753623,aero_dig_tract,oesophagus,ESCA,Amplification,cnaESCA9 (EGFR)
+TE-8,753623,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+TE-9,946353,aero_dig_tract,oesophagus,ESCA,Amplification,"cnaESCA11 (CCND1,CTTN)"
+TE-9,946353,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA12
+TE-9,946353,aero_dig_tract,oesophagus,ESCA,Deletion,cnaESCA14
+TGBC11TKB,909770,digestive_system,stomach,STAD,Deletion,cnaSTAD3
+TGBC11TKB,909770,digestive_system,stomach,STAD,Deletion,cnaSTAD4
+TGBC11TKB,909770,digestive_system,stomach,STAD,Deletion,cnaSTAD7
+TGBC11TKB,909770,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+TGBC11TKB,909770,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+THP-1,909771,leukemia,acute_myeloid_leukaemia,LAML,Deletion,cnaLAML5
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD16
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD17 (CDKN2A)
+TMK-1,1299069,digestive_system,stomach,STAD,Amplification,cnaSTAD26 (MYC)
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD30
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD41
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD47
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,"cnaSTAD48 (FAT1,IRF2)"
+TMK-1,1299069,digestive_system,stomach,STAD,Deletion,cnaSTAD49 (PTEN)
+TOV-112D,1299070,urogenital_system,ovary,OV,Deletion,cnaOV38
+TOV-112D,1299070,urogenital_system,ovary,OV,Deletion,cnaOV39
+TT,930299,thyroid,thyroid,THCA,Deletion,"cnaTHCA3 (FANCG,PAX5)"
+U-118-MG,687588,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+U-118-MG,687588,nervous_system,glioma,GBM,Deletion,"cnaGBM19 (FAT1,IRF2)"
+U-118-MG,687588,nervous_system,glioma,GBM,Deletion,cnaGBM93
+U-118-MG,687588,nervous_system,glioma,GBM,Deletion,cnaGBM94
+U-118-MG,687588,nervous_system,glioma,GBM,Deletion,cnaGBM95
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM20
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM31
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM37
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM38
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM39 (HIST1H3B)
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM40
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM41
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM42
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM43
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM44
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM45
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM64
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM70
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM91
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM110
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM111
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM112
+U-87-MG,687590,nervous_system,glioma,GBM,Deletion,cnaGBM132
+U031,905981,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+U031,905981,kidney,kidney,KIRC,Deletion,cnaKIRC10
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM47
+U251,905983,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM93
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM94
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM95
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM134
+U251,905983,nervous_system,glioma,GBM,Deletion,cnaGBM135
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM1
+UACC-257,905977,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM17
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM22
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM23
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM24
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM25
+UACC-257,905977,skin,melanoma,SKCM,Deletion,cnaSKCM28
+UACC-62,905976,skin,melanoma,SKCM,Deletion,cnaSKCM3
+UACC-62,905976,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+UACC-62,905976,skin,melanoma,SKCM,Deletion,cnaSKCM22
+UACC-62,905976,skin,melanoma,SKCM,Deletion,cnaSKCM23
+UACC-62,905976,skin,melanoma,SKCM,Deletion,cnaSKCM24
+UACC-62,905976,skin,melanoma,SKCM,Deletion,cnaSKCM25
+UACC-812,910910,breast,breast,BRCA,Amplification,"cnaBRCA10 (MDM2,NUP107)"
+UACC-812,910910,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+UACC-812,910910,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+UACC-812,910910,breast,breast,BRCA,Amplification,cnaBRCA31
+UACC-812,910910,breast,breast,BRCA,Deletion,"cnaBRCA32 (PABPC3,SACS,ZMYM2)"
+UACC-812,910910,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+UACC-812,910910,breast,breast,BRCA,Amplification,cnaBRCA61 (NOTCH2)
+UACC-812,910910,breast,breast,BRCA,Amplification,cnaBRCA62
+UACC-812,910910,breast,breast,BRCA,Amplification,cnaBRCA63
+UACC-893,909778,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+UACC-893,909778,breast,breast,BRCA,Deletion,cnaBRCA28 (GPS2)
+UACC-893,909778,breast,breast,BRCA,Deletion,cnaBRCA29 (MAP2K4)
+UACC-893,909778,breast,breast,BRCA,Amplification,"cnaBRCA39 (FOXA1,NKX2-1,PSMA6)"
+UM-UC-3,724838,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA5 (FAT1,IRF2)"
+UM-UC-3,724838,urogenital_system,Bladder,BLCA,Amplification,cnaBLCA23 (MYC)
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV4 (KRAS)
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,"cnaOV12 (FGFR3,WHSC1)"
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV38
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV39
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV40
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV50
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV51 (MYC)
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV52
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV53
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV54
+UWB1.289,1480374,urogenital_system,ovary,OV,Deletion,cnaOV55
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV94
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV95 (MECOM)
+UWB1.289,1480374,urogenital_system,ovary,OV,Amplification,cnaOV96
+VM-CUB-1,909780,urogenital_system,Bladder,BLCA,Deletion,"cnaBLCA5 (FAT1,IRF2)"
+VMRC-LCD,713869,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD1 (CDKN2A)
+VMRC-LCD,713869,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD9
+VMRC-LCD,713869,lung_NSCLC,lung_NSCLC_adenocarcinoma,LUAD,Deletion,cnaLUAD28
+VMRC-MELG,930301,skin,melanoma,SKCM,Amplification,"cnaSKCM21 (FOXP1,MITF)"
+VMRC-MELG,930301,skin,melanoma,SKCM,Deletion,cnaSKCM28
+VMRC-RCW,1240224,kidney,kidney,KIRC,Deletion,cnaKIRC5
+VMRC-RCW,1240224,kidney,kidney,KIRC,Deletion,cnaKIRC22
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC7 (CDKN2A)
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC12
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC13
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC14
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC15
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC22
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,cnaKIRC23
+VMRC-RCZ,909781,kidney,kidney,KIRC,Deletion,"cnaKIRC24 (FAT1,IRF2)"
+WM-115,909784,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+WM-115,909784,skin,melanoma,SKCM,Deletion,cnaSKCM22
+WM-115,909784,skin,melanoma,SKCM,Deletion,cnaSKCM23
+WM-115,909784,skin,melanoma,SKCM,Deletion,cnaSKCM24
+WM-115,909784,skin,melanoma,SKCM,Deletion,cnaSKCM25
+WM1552C,1299078,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+WM1552C,1299078,skin,melanoma,SKCM,Deletion,cnaSKCM5 (PAX5)
+WM1552C,1299078,skin,melanoma,SKCM,Deletion,cnaSKCM24
+WM1552C,1299078,skin,melanoma,SKCM,Deletion,cnaSKCM25
+WM1552C,1299078,skin,melanoma,SKCM,Deletion,cnaSKCM28
+WM278,1240226,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+WM35,1299080,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+WM793B,1299081,skin,melanoma,SKCM,Deletion,"cnaSKCM4 (BNC2,CDKN2A,JAK2,PSIP1)"
+WSU-DLCL2,1331050,lymphoma,B_cell_lymphoma,DLBC,Deletion,cnaDLBC6
+YAPC,909904,pancreas,pancreas,PAAD,Amplification,cnaPAAD2 (KRAS)
+YAPC,909904,pancreas,pancreas,PAAD,Deletion,cnaPAAD4 (CDKN2A)
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM32
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM33
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM47
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM50
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM51
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM52 (TP53)
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM53
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM54
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM55
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM93
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM94
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM95
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM96 (RET)
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM97
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM98
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM99 (ANK3)
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM100
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM101
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM102
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM103
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM104
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM105
+YH-13,909905,nervous_system,glioma,GBM,Deletion,cnaGBM106
+YKG-1,687592,nervous_system,glioma,GBM,Deletion,cnaGBM2 (CDKN2A)
+YKG-1,687592,nervous_system,glioma,GBM,Deletion,"cnaGBM68 (CDKN2C,FAF1)"
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,"cnaBRCA8 (CHD4,WNK1)"
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,"cnaBRCA10 (MDM2,NUP107)"
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,"cnaBRCA13 (FGFR1,WHSC1L1)"
+YMB-1-E,1303911,breast,breast,BRCA,Deletion,"cnaBRCA22 (SYNCRIP,ZNF292)"
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,cnaBRCA58 (CCND1)
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,cnaBRCA62
+YMB-1-E,1303911,breast,breast,BRCA,Amplification,cnaBRCA63
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA12 (TERT)
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA14 (RAD21)
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA15
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA16
+ZR-75-30,909907,breast,breast,BRCA,Deletion,cnaBRCA18
+ZR-75-30,909907,breast,breast,BRCA,Amplification,"cnaBRCA26 (CDK12,ERBB2,MED24)"
+ZR-75-30,909907,breast,breast,BRCA,Amplification,"cnaBRCA27 (CLTC,PPM1D)"
+ZR-75-30,909907,breast,breast,BRCA,Amplification,"cnaBRCA30 (CRNKL1,FOXA2)"
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA62
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA63
+ZR-75-30,909907,breast,breast,BRCA,Amplification,cnaBRCA64 (SDHC)

@@ -1,0 +1,19 @@
+Small-Molecule Cancer Cell-Line Sensitivity Profiling Data
+
+CTRPv2.0_2015_ctd2_ExpandedDataset.zip
+
+The package contains 10 data files, a README file that describes the data, and a COLUMNS file of descriptions of column headers shared by the 10 data files.
+
+metadata files
+v20.meta.per_compound.txt: contextual compound information and annotation
+v20.meta.per_cell_line.txt: contextual cancer cell line information and annotation
+v20.meta.per_experiment.txt: information about experimental growth conditions, media, and SNP fingerprinting
+v20.meta.per_assay_plate.txt: statistical information about DMSO vehicle-control distributions on each assay plate
+v20.meta.media_comp.txt: basal media names and short description of media additives
+
+data files
+v20.data.per_cpd_well.txt: raw and transformed viability values for each cancer cell line treated with compound for each concentration point tested for each replicate tested
+v20.data.per_cpd_avg.txt: transformed and averaged viability values and error-propagation statistics for each cancer cell line treated with compound for each concentration point tested
+v20.data.per_cpd_pre_qc.txt: transformed and averaged viability values and quality-control heuristics for each cancer cell line treated with compound for each concentration point tested
+v20.data.per_cpd_post_qc.txt: average measured and predicted viability values following quality control and curve-fitting for each cancer cell line treated with compound for each concentration point tested
+v20.data.curves_post_qc.txt: area-under-concentration-response curve (AUC) sensitivity scores, curve-fit parameters, and confidence intervals for each cancer cell line and each compound

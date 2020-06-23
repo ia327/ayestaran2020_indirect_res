@@ -1,0 +1,80 @@
+DATA_FILENAME	COLUMN_HEADER	COLUMN_DESCRIPTION
+v20.data.curves_post_qc.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.data.curves_post_qc.txt	conc_pts_fit	number of concentration-response points participating in curve fit
+v20.data.curves_post_qc.txt	fit_num_param	number of free parameters in curve fit
+v20.data.curves_post_qc.txt	p1_conf_int_high	"upper bound of confidence interval (95%) for curve fit parameter 1, center: log2(apparent_ec50_umol)"
+v20.data.curves_post_qc.txt	p1_conf_int_low	"lower bound of confidence interval (95%) for curve fit parameter 1, center: log2(apparent_ec50_umol)"
+v20.data.curves_post_qc.txt	p2_conf_int_high	"upper bound of confidence interval (95%) for curve fit parameter 2, slope parameter"
+v20.data.curves_post_qc.txt	p2_conf_int_low	"lower bound of confidence interval (95%) for curve fit parameter 2, slope parameter"
+v20.data.curves_post_qc.txt	p4_conf_int_high	"upper bound of confidence interval (95%) for curve fit parameter 4, baseline: high-concentration percent viability"
+v20.data.curves_post_qc.txt	p4_conf_int_low	"lower bound of confidence interval (95%) for curve fit parameter 4, baseline: high-concentration percent viability"
+v20.data.curves_post_qc.txt	p1_center	"curve fit parameter 1, center: log2(apparent_ec50_umol)"
+v20.data.curves_post_qc.txt	p2_slope	"curve fit parameter 2, slope parameter"
+v20.data.curves_post_qc.txt	p3_total_decline	"curve fit parameter 3, total decline in percent viability (not a free parameter): 1-p4_baseline"
+v20.data.curves_post_qc.txt	p4_baseline	"curve fit parameter 4, baseline: high-concentration percent viability"
+v20.data.curves_post_qc.txt	apparent_ec50_umol	apparent effective concentration at which 50% of total decline is observed: 2^p1_center
+v20.data.curves_post_qc.txt	pred_pv_high_conc	predicted percent viability at highest concentration tested (in principle similar to p4_baseline for well-behaved curves)
+v20.data.curves_post_qc.txt	area_under_curve	integrated area under the sigmoid-fit concentration-response curve
+v20.data.curves_post_qc.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.data.per_cpd_avg.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.data.per_cpd_avg.txt	cpd_plate_std_log2	estimated per-plate standard deviation for log2-transformed compound-well value
+v20.data.per_cpd_avg.txt	cpd_expt_var_log2	estimated per-experiment variance for log2-transformed compound-well value
+v20.data.per_cpd_avg.txt	cpd_expt_avg_log2	weighted average of replicate bsub_value_log2; shared by all replicates of a master_cpd_id + cpd_conc_umol + experiment_id
+v20.data.per_cpd_avg.txt	cpd_expt_dscore	D-score value of replicate log2-transformed compound-well values with error propagation; shared by all replicates of a master_cpd_id + cpd_conc_umol + experiment_id
+v20.data.per_cpd_avg.txt	cpd_conc_umol	final micromolar concentration of compound in assay plate
+v20.data.per_cpd_avg.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.data.per_cpd_post_qc.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.data.per_cpd_post_qc.txt	cpd_pv_errorbar	half-height error bar for predicted percent-viability from curve fit procedure evaluated at each concentration
+v20.data.per_cpd_post_qc.txt	cpd_pred_pv	predicted percent-viability from curve fit procedure evaluated at each concentration
+v20.data.per_cpd_post_qc.txt	cpd_avg_pv	weighted percent-viability with error propagation; shared by all replicates of a master_cpd_id + cpd_conc_umol + experiment_id
+v20.data.per_cpd_post_qc.txt	cpd_conc_umol	final micromolar concentration of compound in assay plate
+v20.data.per_cpd_post_qc.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.data.per_cpd_pre_qc.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.data.per_cpd_pre_qc.txt	qc_type	serial number for quality control types: 0=no censoring; 1=censor highest-concentration point; 2=censor two highest-concentration points; 3=use Cook's distance to censor points
+v20.data.per_cpd_pre_qc.txt	num_conc_pts	number of concentration-response points available before censoring (qc_type=3 if num_conc_pts/cpd_delta_sum < 8)
+v20.data.per_cpd_pre_qc.txt	cpd_delta_sum	sum of absolute change in percent viability between adjacent pairs of points (qc_type=3 if num_conc_pts/cpd_delta_sum < 8)
+v20.data.per_cpd_pre_qc.txt	qc_delta_penum	upward change in percent viability between penultimate pair of concentration points (qc_type=2 if qc_delta_penum > 0.2)
+v20.data.per_cpd_pre_qc.txt	qc_delta_last	upward change in percent viability between last pair of concentration points (qc_type=1 if qc_delta_last > 0.2)
+v20.data.per_cpd_pre_qc.txt	cpd_avg_pv	weighted percent-viability with error propagation; shared by all replicates of a master_cpd_id + cpd_conc_umol + experiment_id
+v20.data.per_cpd_pre_qc.txt	cpd_conc_umol	final micromolar concentration of compound in assay plate
+v20.data.per_cpd_pre_qc.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.data.per_cpd_well.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.data.per_cpd_well.txt	assay_plate_barcode	barcode of physical assay plate in Broad Institute LIMS
+v20.data.per_cpd_well.txt	raw_value_log2	"logarithm (base 2) of baseline-corrected chemiluminescence value: log2(max[raw_value-baseline_value,baseline_value])"
+v20.data.per_cpd_well.txt	bsub_value_log2	log2-transformed compound-well value background-subracted using dmso_plate_avg_log2
+v20.data.per_cpd_well.txt	dmso_zscore_log2	log2-transformed compound-well value z-scored using dmso_plate_avg_log2 and dmso_expt_std_log2
+v20.data.per_cpd_well.txt	cpd_conc_umol	final micromolar concentration of compound in assay plate
+v20.data.per_cpd_well.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.meta.media_comp.txt	culture_media	code for media and additives used in cell culture
+v20.meta.media_comp.txt	media_composition	text description of base media and components added
+v20.meta.per_assay_plate.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.meta.per_assay_plate.txt	assay_plate_barcode	barcode of physical assay plate in Broad Institute LIMS
+v20.meta.per_assay_plate.txt	num_dmso_wells	number of DMSO vehicle-control wells on assay plate
+v20.meta.per_assay_plate.txt	dmso_plate_avg_log2	per-plate mean of log2-transformed DMSO-well values
+v20.meta.per_assay_plate.txt	dmso_expt_std_log2	per-experiment standard deviation of background-subtracted log2-transformed DMSO-well values
+v20.meta.per_cell_line.txt	master_ccl_id	master cancer cell line identifier for all CTRP versions
+v20.meta.per_cell_line.txt	ccl_name	primary name of cancer cell line
+v20.meta.per_cell_line.txt	ccl_availability	availability status of physical samples of cancer cell line
+v20.meta.per_cell_line.txt	ccle_primary_site	cell line tissue of origin (broadly defined) from CCLE
+v20.meta.per_cell_line.txt	ccle_primary_hist	cell line histology type (general) from CCLE
+v20.meta.per_cell_line.txt	ccle_hist_subtype_1	cell line histology type (specific) from CCLE
+v20.meta.per_compound.txt	master_cpd_id	master compound identifier for all CTRP versions
+v20.meta.per_compound.txt	cpd_name	name of compound (INN preferred; best available otherwise)
+v20.meta.per_compound.txt	broad_cpd_id	unique compound identifier in Broad Institute LIMS
+v20.meta.per_compound.txt	top_test_conc_umol	starting top concentration for 16-point 2-fold serial dilution of compound
+v20.meta.per_compound.txt	cpd_status	clinical status of small molecule
+v20.meta.per_compound.txt	inclusion_rationale	brief descriptive term delineating reason for inclusion of compound in Informer Set
+v20.meta.per_compound.txt	gene_symbol_of_protein_target	HUGO gene symbol for gene encoding targeted protein
+v20.meta.per_compound.txt	target_or_activity_of_compound	protein or biological process that compound is reported to target (not exhaustive)
+v20.meta.per_compound.txt	source_name	"institution, laboratory, or vendor from which Informer Set compound was obtained"
+v20.meta.per_compound.txt	source_catalog_id	vendor catalog number for commercially available compounds in Informer Set
+v20.meta.per_compound.txt	cpd_smiles	SMILES representation of chemical structure
+v20.meta.per_experiment.txt	experiment_id	serial number for experiment performed during CTRPv2 data collection
+v20.meta.per_experiment.txt	run_id	identifier for compound-transfer run in Broad Institute LIMS
+v20.meta.per_experiment.txt	experiment_date	date of compound-transfer event recorded in Broad Institute LIMS
+v20.meta.per_experiment.txt	culture_media	code for media and additives used in cell culture
+v20.meta.per_experiment.txt	baseline_signal	chemiluminescence signal of wells with media but no cells
+v20.meta.per_experiment.txt	cells_per_well	number of cells plated into 1536-well plate for Cell Titer-Glo assay
+v20.meta.per_experiment.txt	growth_mode	"growth behavior of cancer cell line in culture (e.g., adherent, suspension, mixed)"
+v20.meta.per_experiment.txt	snp_fp_status	current status of SNP genotype fingerprinting to confirm cell line identity (updated 2015/12/15)
+v20.meta.per_experiment.txt	master_ccl_id	master cancer cell line identifier for all CTRP versions
