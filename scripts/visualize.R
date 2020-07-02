@@ -8,8 +8,8 @@ suppressMessages(library(plotly))
 ## Add reactive boxplot comparison to ANOVA filtered volcano
 ## Idea, just one volcano plot, with option to toggle filtered vs non filtered?
 
-DATADIR <- './data/combined_for_pipeline/'
-RESDIR <- './results/'
+DATADIR <- '../data/combined_for_pipeline/'
+RESDIR <- '../results/'
 
 load(paste0(DATADIR, 'gdsc_dr_data.RData'))
 load(paste0(DATADIR, 'ctrp_dr_data.RData'))
