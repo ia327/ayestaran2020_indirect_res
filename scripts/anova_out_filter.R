@@ -285,11 +285,11 @@ selected.all.IC50s.df <- all.IC50s.df %>%
 
 if (!do_permutation) {
   pdf(paste0(HOMEDIR, '/plots/', args[2], '/volcano_filtered.pdf'), width = 8, height = 6)
-  plot.volcano.gg(selected.sign.anovas.df, label.thres = 0,
-                  main = 'Filtered', fixed.x = TRUE)
+  print(plot.volcano.gg(selected.sign.anovas.df, label.thres = 0,
+                  main = 'Filtered', fixed.x = TRUE))
   invisible(dev.off())
   pdf(paste0(HOMEDIR, '/plots/', args[2], '/barchart_filtered.pdf'), width = 3.6, height = 2.4)
-  barchart.volcano(selected.sign.anovas.df)
+  print(barchart.volcano(selected.sign.anovas.df))
   invisible(dev.off())
 }
 
@@ -357,7 +357,7 @@ if (!do_permutation) {
   # Upper limit of labels
   all.anovas.df.to.plot$labels[30:nrow(all.anovas.df.to.plot)] <- ''
 
-  ggplot(all.anovas.df.to.plot,
+  g <- ggplot(all.anovas.df.to.plot,
          aes(x=effect, y=p.value,
              colour=tissue, size = n.samples)) +
     scale_y_continuous(trans=reverselog_trans(10),
@@ -390,17 +390,18 @@ if (!do_permutation) {
     scale_size('N. altered samples',
                breaks = c((40+10)/10, (20+10)/10, (3+10)/10),
                labels = c('40', '20', '3'))
+  print(g)
   invisible(dev.off())
 
   pdf(paste0(HOMEDIR, '/plots/',args[2],'/barchart_sign.pdf'), width = 3.6, height = 2.4)
-  barchart.volcano(all.anovas.df, fixed.y = FALSE)
+  print(barchart.volcano(all.anovas.df, fixed.y = FALSE))
   invisible(dev.off())
 
 
   ## All data
 
   pdf(paste0(HOMEDIR, '/plots/',args[2],'/volcano_all.pdf'), width = 10.5, height = 7)
-  ggplot(data=all.anovas.unfiltered,
+  g <- ggplot(data=all.anovas.unfiltered,
          aes(x=effect, y=p.value,
              colour=tissue, size = n.samples)) +
     scale_y_continuous(trans=reverselog_trans(10),
@@ -428,6 +429,7 @@ if (!do_permutation) {
     scale_size('N. altered samples',
                breaks = c((40+10)/10, (20+10)/10, (3+10)/10),
                labels = c('40', '20', '3'))
+  print(g)
   invisible(dev.off())
 
 }
