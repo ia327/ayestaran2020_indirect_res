@@ -21,7 +21,6 @@ args = commandArgs(trailingOnly=TRUE)
 library(methods)
 suppressMessages(library(tidyverse))
 suppressMessages(library(DRANOVA))
-library(beeswarm)
 library(parallel)
 
 HOMEDIR <- args[1]

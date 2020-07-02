@@ -12,9 +12,8 @@ args = commandArgs(trailingOnly=TRUE)
 #### saves significant and effective enough drug-gene associations (sign_anova_out)
 
 ## Filters used:
-## 1: P value < 0.001, FDR < 25%, effect size > 1 towards sensitivity
-## 2: Associations contain at least one driver gene (according to COSMIC Gene census,
-##    previously according to GDSC driver gene list)
+## 1: P value < 0.001, effect size > 1 towards sensitivity
+## 2: Associations contain at least one driver gene (according to GDSC cancer gene list)
 ## 3: At least 50% (rounded) of mutant cell lines must have an IC50 below the
 ##    maximum concentration of the drug
 ## 4: A minimum number of mutant cell lines (n = 4)
@@ -22,10 +21,6 @@ args = commandArgs(trailingOnly=TRUE)
 ## Volcano plots and barcharts are drawn for the initial ANOVA results
 ## and after the filtering process
 ## Stepwise volcano plot visulazations are commented out
-
-### Data used:
-## DRUG_NAME, DRUG_ID, TCGA_DESC, COSMIC_ID,
-## PUTATIVE_TARGET, LN_IC50, MAX_CONC
 
 suppressMessages(library(tidyverse))
 library(ggbeeswarm)
@@ -70,13 +65,13 @@ scientific_10 <- function(x) {
 
 plot.volcano.gg <- function(data, label.thres = 0.01, main = '', fixed.x = FALSE,
                             filter.sig=FALSE){
-  
+
   drug.label <- sapply(data$drug,
                        function(x) unique(dataset$DRUG_NAME[which(dataset$DRUG_ID== x)]))
   labels <- paste0(drug.label, '\n', data$alteration)
   labels[data$corrected.p.value...q.value. > label.thres] <- ''
   col.vector <- tissue.cols[data$tissue]
-  
+
   all <- ggplot(data=data,
                 aes(x=effect, y=p.value,
                     colour=tissue, size = n.samples)) +
@@ -107,7 +102,7 @@ plot.volcano.gg <- function(data, label.thres = 0.01, main = '', fixed.x = FALSE
                                       y=p.value,
                                       label=labels), colour="gray40", size=3,
                           box.padding = unit(0.5, 'lines'))
-    
+
   } else {
     if (fixed.x){
       all +  scale_x_continuous(breaks =c(-6, -4, -2, 0),
@@ -213,7 +208,7 @@ all.IC50s <- apply(selected.sign.anovas.df, 1, function(x) {
   simple.bem <- all.bems.tidy %>%
     filter(Tissue == as.character(x['tissue'])) %>%
     select(-Tissue)
-  
+
   # Get Drug response and mutation status data
   selected.dr <- dataset %>%
     filter(DRUG_ID == as.character(x['drug'])) %>%
@@ -222,13 +217,13 @@ all.IC50s <- apply(selected.sign.anovas.df, 1, function(x) {
     arrange(COSMIC_ID) %>%
     unique() %>%
     mutate(log10.dr = log10(exp(LN_IC50)))
-  
+
   # Get max conc value (if there is a single different value, treat it as and error)
   max.conc <- log10(as.numeric(names(sort(table(selected.dr$MAX_CONC),
                                           decreasing = TRUE)))[1])
-  
+
   res <- selected.dr %>%
-    mutate(tissue=as.character(x['tissue']), 
+    mutate(tissue=as.character(x['tissue']),
            log10.max.conc=max.conc,
            gene=as.character(x['alteration'])) %>%
     select(tissue, COSMIC_ID, DRUG_ID, PUTATIVE_TARGET,
@@ -236,7 +231,7 @@ all.IC50s <- apply(selected.sign.anovas.df, 1, function(x) {
     mutate_if(is.character, as.factor) %>%
     mutate(association=as.character(x['association']),
            COSMIC_ID = as.character(COSMIC_ID))
-  
+
   if (do_permutation){
     perm.dr <- read.csv(paste0(ANOVAOUTDIR, x['tissue'],'_dr.csv'),
                         row.names = 1, check.names = FALSE)
@@ -347,8 +342,8 @@ if (!do_permutation) {
   all.anovas.unfiltered <- all.anovas.df.to.plot
   all.anovas.df.to.plot <- all.anovas.df.to.plot[all.anovas.df.to.plot$tissue != 'Not significant',]
   all.anovas.df.to.plot$tissue <- as.factor(all.anovas.df.to.plot$tissue)
-  
-  
+
+
   pdf(paste0(HOMEDIR, '/plots/',args[2],'/volcano_sign.pdf'), width = 10, height = 7)
   all.anovas.df.to.plot <- dataset %>%
     select(DRUG_ID, DRUG_NAME) %>%
@@ -361,7 +356,7 @@ if (!do_permutation) {
                          ''))
   # Upper limit of labels
   all.anovas.df.to.plot$labels[30:nrow(all.anovas.df.to.plot)] <- ''
-  
+
   ggplot(all.anovas.df.to.plot,
          aes(x=effect, y=p.value,
              colour=tissue, size = n.samples)) +
@@ -396,14 +391,14 @@ if (!do_permutation) {
                breaks = c((40+10)/10, (20+10)/10, (3+10)/10),
                labels = c('40', '20', '3'))
   invisible(dev.off())
-  
+
   pdf(paste0(HOMEDIR, '/plots/',args[2],'/barchart_sign.pdf'), width = 3.6, height = 2.4)
   barchart.volcano(all.anovas.df, fixed.y = FALSE)
   invisible(dev.off())
-  
-  
+
+
   ## All data
-  
+
   pdf(paste0(HOMEDIR, '/plots/',args[2],'/volcano_all.pdf'), width = 10.5, height = 7)
   ggplot(data=all.anovas.unfiltered,
          aes(x=effect, y=p.value,
@@ -434,5 +429,5 @@ if (!do_permutation) {
                breaks = c((40+10)/10, (20+10)/10, (3+10)/10),
                labels = c('40', '20', '3'))
   invisible(dev.off())
-  
+
 }

@@ -1,9 +1,16 @@
+#!/usr/bin/Rscript
+args = commandArgs(trailingOnly=TRUE)
+
+## Arguments:
+# 1. Home directory
+# 2. Dataset
 
 library(alphaOutlier)
 library(plyr)
 library(readr)
 library("GenBinomApps")
 
+HOMEDIR <- args[1]
 # Read in significant filtered associations data: selected.sign.anovas.df and selected.all.IC50s.df
 load(paste0(HOMEDIR, '/results/', args[2], '/sign_anova_out.RData'))
 load(paste0(HOMEDIR, '/results/', args[2], '/high_var_results.RData'))
@@ -38,7 +45,7 @@ outliers.resistance.analysis <- unique(high.var.associations.filter %>%
 
 
 # 2: define normal distribution values: only IC50s of mut=1
-n.cells <- nrow(assoc.numbers.all[assoc.numbers.all$mut.status==1,]) 
+n.cells <- nrow(assoc.numbers.all[assoc.numbers.all$mut.status==1,])
 sd.cells <- sd(assoc.numbers.all[assoc.numbers.all$mut.status==1,]$log10.dr)
 mean.cells <- mean(assoc.numbers.all[assoc.numbers.all$mut.status==1,]$log10.dr)
 outlier.binomial <- matrix(nrow = nrow(selected.all.IC50s.to.sample.all),
@@ -49,7 +56,7 @@ for (i in 1:nrow(selected.all.IC50s.to.sample.all)) {
   up <- qnorm(1-alpha,mean.cells,sd.cells)
   mean.mutated.i <- (data.frame(selected.all.IC50s.to.sample.all[i,]$nest.log10dr)[
     unlist(selected.all.IC50s.to.sample.all[i,]$nest.mut)==1,])
-  outlier.binomial.aux<- (mean.mutated.i>=up) 
+  outlier.binomial.aux<- (mean.mutated.i>=up)
   outlier.binomial[i,1] <- any(outlier.binomial.aux)
   outlier.binomial[i,2] <- length(which(outlier.binomial.aux))
 }
@@ -61,7 +68,7 @@ high.var.associations.new <- map_dfr(rownames(outlier.binomial), function(x) {
 })
 high.var.associations.new$outlier <- outlier.binomial[,1]
 high.var.associations.new$nr.outlier <- outlier.binomial[,2]
-outliers.Neyman.Pearson <- unique(high.var.associations.new %>% 
+outliers.Neyman.Pearson <- unique(high.var.associations.new %>%
                            filter(outlier == TRUE) %>%
                            mutate(tissue.assoc = paste0(tissue, '-', association)) %>%
                            select(tissue.assoc,nr.outlier))
