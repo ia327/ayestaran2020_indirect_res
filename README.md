@@ -22,7 +22,7 @@ Further work on the analysis pipeline, or inclusion of more data will take place
 ## INPUT FILES
 Included in the `data/` folder, there is a collection of .xlsx and .tsv files.
 
-To speed data input, a series of .RData files are created at the beginning of the pipeline containing all data used. This is done by the scrip `create_combined_data.R`, and the resulting data objects are stored in `data/combined_for_pipeline`.
+To speed data input, a series of .RData files are created at the beginning of the pipeline containing all data used. This is done by the scrip `create_combined_data.R`, and the resulting data objects are stored in `data/combined_for_pipeline`. The RData objects are already included in the repository, so there's no need to generate them again, but it is possible.
 
 
 ## RUNNING THE ANALYSIS
