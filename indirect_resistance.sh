@@ -73,7 +73,7 @@ if [ "$run_ANOVA" == 1 ]
 fi
 
 mkdir -p "$DIR/plots"
-mkdir -p "$DIR/plots/$datset"
+mkdir -p "$DIR/plots/$dataset"
 
 
 printf "Filtering ANOVA output...\n"

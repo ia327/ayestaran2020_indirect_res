@@ -122,4 +122,4 @@ tissues.to.anova <- dataset %>%
 
 foo <- mclapply(tissues.to.anova$TCGA_DESC, function(tiss) {
   run.tissue.ANOVA(tiss, ref.data = dataset)
-  }, mc.cores = 10)
+}, mc.cores = 3)

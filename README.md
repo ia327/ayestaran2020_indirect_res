@@ -60,3 +60,7 @@ Some .RData objects are also created, and are used to faster transmit the data b
 ## REPLICATING FIGURES FROM THE PAPER
 
 After having run the main pipeline with `indirect_resistance.sh`, Figures included in the manuscript can be recreated with the R scripts located in `manuscript/Figures`.
+
+## CURVE REFITTING FOR CTRP DATA
+
+The refitted curves are already included in `data/drug/CTRP_refitted_dose_response.csv`, but the code to perform the fitting from the raw data is contained in `scripts/other_scripts/fit_curves_all.R`. This script requires the package `gdscIC50`.
