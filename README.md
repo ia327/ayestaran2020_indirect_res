@@ -56,6 +56,14 @@ By order of creation:
 
 Some .RData objects are also created, and are used to faster transmit the data between different R scripts.
 
+## VISUALIZATION OF UNRES CELL LINES DETECTED
+
+The script `scripts/visualize.R` contains a Shiny app for exploring the results of the pipeline. This can be launched from the command line with the following command from the home directory of this repository:
+
+`R --vanilla -e 'shiny::runApp("scripts/visualize.R")'`
+
+The plots included as Figure 1B and 1C in the paper will be under the "Putative volcano" tab, and upon clicking any point, a comparison boxplot of IC50s will be shown, highlighting the detected UNRES cell line(s) and their potential resistance biomarkers.
+
 
 ## REPLICATING FIGURES FROM THE PAPER
 

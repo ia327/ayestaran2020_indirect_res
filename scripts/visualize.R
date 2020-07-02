@@ -8,8 +8,8 @@ suppressMessages(library(plotly))
 ## Add reactive boxplot comparison to ANOVA filtered volcano
 ## Idea, just one volcano plot, with option to toggle filtered vs non filtered?
 
-DATADIR <- '../data/combined_for_pipeline/'
-RESDIR <- '../results/'
+DATADIR <- './data/combined_for_pipeline/'
+RESDIR <- './results/'
 
 load(paste0(DATADIR, 'gdsc_dr_data.RData'))
 load(paste0(DATADIR, 'ctrp_dr_data.RData'))
@@ -67,7 +67,7 @@ plot.comp.boxplot <- function(tissue, drug.id, gene, ref.data, ref.bems, outlier
   simple.bem <- ref.bems %>%
     filter(Tissue == tissue) %>%
     select(-Tissue)
-  
+
   # Get Drug response and mutation status data
   selected.dr <- ref.data %>%
     filter(DRUG_ID == drug.id) %>%
@@ -76,7 +76,7 @@ plot.comp.boxplot <- function(tissue, drug.id, gene, ref.data, ref.bems, outlier
     arrange(COSMIC_ID) %>%
     unique() %>%
     mutate(log10.dr = log10(exp(LN_IC50)))
-  
+
   # Get max conc value (if there is a single different value, treat it as and error)
   max.conc <- log10(as.numeric(names(sort(table(selected.dr$MAX_CONC),
                                           decreasing = TRUE)))[1])
@@ -192,7 +192,7 @@ server <- function(input, output) {
            GDSC = all.gdsc,
            CTRP = all.ctrp)
   })
-  
+
   ref.bem <- reactive({
     switch(input$dataset,
            GDSC = all.bems.tidy.gdsc,
@@ -210,7 +210,7 @@ server <- function(input, output) {
            GDSC = gdsc.res.list$sign.anova,
            CTRP = ctrp.res.list$sign.anova)
   })
-  
+
   fdr.tree <- reactive({
     switch(input$dataset,
            GDSC = fdr.tree.gdsc,
